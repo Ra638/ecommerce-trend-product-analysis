@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age,Location,Product_Category,Purchase_Amount,Purchase_Date,Rating,Discount_Applied,Payment_Method,Is_Returned,Browsing_Time_Minutes,Items_Purchased
+4174,Female,38,Tokyo,Clothing,,2023-01-01,5.0,0.0,Cash,0,33.7,2
+4507,Male,40,London,Electronics,1720.22,2023-01-02,3.0,0.0,Credit Card,1,36.9,6
+1860,Male,60,Berlin,Electronics,4173.69,2023-01-03,1.0,10.0,PayPal,0,55.7,1
+2294,Female,33,Berlin,Fitness,4677.75,2023-01-04,2.0,25.0,Cash,0,40.2,5
+2130,Female,64,London,Books,10000.0,2023-01-05,3.0,0.0,PayPal,0,41.8,6
+2095,Other,32,Mumbai,Fitness,,2023-01-06,2.0,0.0,Cash,0,47.4,7
+4772,Male,42,Mumbai,Fitness,4643.51,2023-01-07,1.0,20.0,Cash,0,7.9,2
+4092,Female,53,Tokyo,Fitness,313.73,2023-01-08,5.0,0.0,Credit Card,0,22.2,1
+2638,Male,28,New York,Electronics,466.34,2023-01-09,4.0,0.0,Debit Card,0,58.1,6
+3169,Female,68,Mumbai,Electronics,818.14,2023-01-10,4.0,0.0,Cash,0,55.5,3
+1466,Female,32,New York,Fitness,2978.09,2023-01-11,2.0,30.0,Cash,0,53.2,5
+2238,Male,21,Berlin,Electronics,756.61,2023-01-12,2.0,25.0,Credit Card,0,27.7,2
+1330,Male,38,New York,Books,4840.54,2023-01-13,1.0,10.0,Debit Card,1,51.6,1
+2482,Male,30,Berlin,Fitness,2236.34,2023-01-14,4.0,20.0,Crypto,0,3.9,1
+3135,Male,39,London,Electronics,2510.08,2023-01-15,5.0,15.0,Crypto,0,9.8,4
+4444,Male,36,London,Clothing,1237.06,2023-01-16,3.0,20.0,Debit Card,0,25.4,2
+4171,Female,51,Tokyo,Fitness,2357.45,2023-01-17,2.0,20.0,PayPal,0,29.5,1
+3919,Female,31,Mumbai,Fitness,3311.26,2023-01-18,3.0,20.0,Credit Card,0,16.5,6
+4735,Female,21,Tokyo,Books,3757.13,2023-01-19,3.0,5.0,Debit Card,0,22.0,4
+1130,Female,65,Berlin,Home Decor,3770.57,2023-01-20,3.0,0.0,Crypto,0,10.6,7
+2685,Female,69,Tokyo,Home Decor,2891.57,2023-01-21,4.0,15.0,Cash,0,29.9,6
+4380,Female,63,New York,Books,4522.28,2023-01-22,4.0,30.0,Crypto,0,47.8,5
+1769,Female,44,Berlin,Books,4087.95,2023-01-23,2.0,15.0,Cash,1,40.0,2
+3391,Male,46,London,Books,3786.46,2023-01-24,1.0,25.0,Credit Card,1,7.4,5
+2515,Male,64,Mumbai,Home Decor,282.75,2023-01-25,,,Cash,0,29.8,9
+4485,Male,45,Berlin,Books,39.36,2023-01-26,2.0,0.0,Debit Card,0,42.2,9
+3853,Male,52,Berlin,Electronics,1066.17,2023-01-27,1.0,20.0,Cash,0,32.3,2
+3433,Male,25,New York,Fitness,3319.3,2023-01-28,2.0,20.0,PayPal,0,24.1,7
+2215,Male,33,Mumbai,Fitness,2058.93,2023-01-29,1.0,,Debit Card,0,37.7,4
+1955,Female,59,London,Clothing,2015.02,2023-01-30,3.0,,Credit Card,0,58.1,3
+3324,Female,53,Berlin,Clothing,4423.51,2023-01-31,4.0,20.0,Debit Card,0,6.6,1
+2184,Male,47,Berlin,Fitness,4478.34,2023-02-01,3.0,5.0,PayPal,0,24.0,3
+1459,Male,35,New York,Electronics,4546.33,2023-02-02,3.0,25.0,Credit Card,0,25.0,9
+4385,Male,19,Tokyo,Home Decor,1572.82,2023-02-03,4.0,0.0,Crypto,0,35.0,9
+1021,Female,66,London,Home Decor,3456.82,2023-02-04,3.0,25.0,PayPal,0,10.0,7
+3300,Male,30,Mumbai,Electronics,1361.81,2023-02-05,4.0,30.0,Credit Card,0,11.4,3
+1747,Female,21,Berlin,Home Decor,957.1,2023-02-06,4.0,10.0,Cash,0,17.8,3
+3904,Male,43,Berlin,Books,927.24,2023-02-07,1.0,20.0,Debit Card,0,57.4,4
+4632,Female,42,London,Fitness,1713.83,2023-02-08,4.0,10.0,Credit Card,0,44.3,7
+1474,Other,47,Tokyo,Fitness,2152.64,2023-02-09,3.0,10.0,Debit Card,0,40.0,7
+2082,Male,28,Berlin,Electronics,10000.0,2023-02-10,,10.0,Cash,0,49.2,2
+3558,Female,24,London,Home Decor,603.86,2023-02-11,3.0,25.0,Credit Card,0,8.5,5
+4753,Female,48,New York,Clothing,3675.95,2023-02-12,,30.0,Crypto,0,51.7,7
+3047,Female,61,Tokyo,Clothing,2659.62,2023-02-13,4.0,30.0,PayPal,0,36.1,7
+4547,Male,27,Mumbai,Home Decor,1443.29,2023-02-14,2.0,0.0,Credit Card,1,20.8,6
+3747,Female,56,Berlin,Clothing,2466.63,2023-02-15,3.0,30.0,Cash,0,49.1,8
+1975,Female,30,London,Electronics,1503.21,2023-02-16,,20.0,Credit Card,0,48.4,3
+2806,Female,48,New York,Electronics,10000.0,2023-02-17,4.0,5.0,Debit Card,1,50.9,1
+1189,Female,24,Mumbai,Home Decor,2172.05,2023-02-18,1.0,0.0,Credit Card,0,7.8,3
+4005,Female,66,London,Clothing,826.21,2023-02-19,4.0,5.0,Crypto,0,58.2,2
+3734,Other,59,London,Electronics,587.33,2023-02-20,3.0,30.0,Credit Card,0,57.6,2
+4005,Female,59,Mumbai,Electronics,2735.74,2023-02-21,1.0,20.0,PayPal,0,22.1,2
+1562,Female,53,New York,Books,4512.55,2023-02-22,3.0,20.0,Credit Card,0,4.9,5
+2899,Female,37,New York,Books,,2023-02-23,2.0,5.0,Debit Card,0,10.9,1
+4638,Male,21,Tokyo,Electronics,3666.34,2023-02-24,4.0,20.0,Credit Card,0,59.6,4
+2267,Female,24,Berlin,Home Decor,3295.01,2023-02-25,3.0,0.0,Crypto,0,34.2,5
+3879,Female,18,Mumbai,Fitness,4658.12,2023-02-26,4.0,10.0,Cash,0,22.0,2
+2528,Male,61,Mumbai,Fitness,4105.8,2023-02-27,1.0,20.0,Credit Card,0,18.0,5
+4202,Female,62,Mumbai,Electronics,2835.19,2023-02-28,3.0,0.0,Credit Card,0,16.2,4
+4556,Male,59,New York,Electronics,3286.87,2023-03-01,2.0,25.0,PayPal,0,40.2,8
+4890,Female,64,Berlin,Electronics,4492.44,2023-03-02,2.0,5.0,Crypto,0,25.7,1
+1646,Female,30,Tokyo,Home Decor,2000.6,2023-03-03,1.0,20.0,Cash,0,58.0,5
+3068,Female,39,London,Books,1637.34,2023-03-04,2.0,10.0,Debit Card,0,41.3,1
+3888,Male,38,London,Electronics,59.0,2023-03-05,3.0,15.0,Credit Card,0,47.7,4
+3214,Female,39,Mumbai,Electronics,4133.62,2023-03-06,2.0,0.0,Cash,0,18.3,8
+2297,Female,45,Berlin,Clothing,4005.9,2023-03-07,3.0,0.0,Debit Card,0,5.7,1
+3435,Male,26,New York,Home Decor,526.75,2023-03-08,3.0,30.0,Crypto,0,29.8,2
+1600,Male,43,Berlin,Electronics,2886.4,2023-03-09,4.0,5.0,Crypto,0,19.6,1
+3363,Female,26,Berlin,Clothing,2322.59,2023-03-10,5.0,25.0,Cash,0,12.9,7
+3061,Male,32,New York,Fitness,597.95,2023-03-11,3.0,,Debit Card,0,57.2,2
+1241,Male,27,Mumbai,Electronics,4902.94,2023-03-12,3.0,5.0,Crypto,1,27.2,1
+3041,Female,41,Berlin,Electronics,1077.41,2023-03-13,2.0,5.0,Cash,0,11.3,6
+3824,Male,59,London,Clothing,340.83,2023-03-14,,20.0,Crypto,0,12.7,6
+4417,Female,25,New York,Home Decor,2976.26,2023-03-15,1.0,,Crypto,0,17.6,2
+3612,Male,41,Tokyo,Electronics,3695.64,2023-03-16,2.0,30.0,Crypto,0,60.0,1
+3945,Female,33,Mumbai,Fitness,167.06,2023-03-17,2.0,15.0,PayPal,0,16.8,3
+2363,Male,66,New York,Electronics,3295.29,2023-03-18,3.0,25.0,Debit Card,1,20.4,5
+3139,Female,43,Tokyo,Fitness,2663.8,2023-03-19,2.0,0.0,Cash,0,39.9,6
+2390,Male,44,Tokyo,Books,520.81,2023-03-20,4.0,,Cash,0,18.3,3
+4003,Female,54,Berlin,Books,866.76,2023-03-21,2.0,,Debit Card,0,13.7,9
+2478,Male,21,Berlin,Fitness,2842.03,2023-03-22,4.0,0.0,Debit Card,0,10.4,5
+4499,Female,67,Berlin,Home Decor,1485.31,2023-03-23,2.0,5.0,Debit Card,0,19.4,2
+3556,Female,41,New York,Electronics,4691.89,2023-03-24,1.0,0.0,Debit Card,0,7.2,6
+1775,Other,36,New York,Electronics,4094.61,2023-03-25,5.0,5.0,Credit Card,0,2.1,8
+1034,Female,53,Mumbai,Books,4917.92,2023-03-26,2.0,25.0,Cash,0,48.5,6
+3253,Male,56,Berlin,Fitness,1302.06,2023-03-27,4.0,10.0,Credit Card,0,9.1,4
+4152,Female,27,Tokyo,Electronics,4848.77,2023-03-28,3.0,0.0,Crypto,0,46.8,6
+2955,Male,42,London,Electronics,10000.0,2023-03-29,1.0,10.0,Crypto,0,48.1,8
+2585,Male,35,Mumbai,Home Decor,1740.86,2023-03-30,,,Cash,0,32.7,8
+4943,Male,36,New York,Clothing,256.5,2023-03-31,2.0,20.0,Crypto,0,19.3,2
+4459,Female,53,Mumbai,Books,268.56,2023-04-01,4.0,10.0,Debit Card,1,9.6,8
+4073,Female,27,Mumbai,Books,3461.6,2023-04-02,2.0,0.0,Credit Card,0,44.5,6
+2021,Male,50,Mumbai,Clothing,2292.36,2023-04-03,4.0,,Debit Card,0,36.5,2
+4461,Female,67,Mumbai,Electronics,1136.48,2023-04-04,1.0,25.0,Crypto,1,39.7,1
+3613,Male,22,London,Home Decor,3071.78,2023-04-05,3.0,5.0,Credit Card,0,1.5,6
+2129,Male,64,Berlin,Home Decor,1268.03,2023-04-06,4.0,0.0,Debit Card,0,55.7,7
+4843,Male,66,Tokyo,Books,2890.27,2023-04-07,5.0,0.0,Cash,0,4.9,5
+4893,Male,52,Mumbai,Home Decor,1799.25,2023-04-08,5.0,0.0,Debit Card,0,22.6,8
+2500,Female,61,Mumbai,Clothing,4118.64,2023-04-09,4.0,15.0,Crypto,0,24.8,9
+1702,Female,51,Mumbai,Electronics,4104.38,2023-04-10,4.0,30.0,Credit Card,0,1.1,4
+3449,Female,50,Berlin,Clothing,2389.37,2023-04-11,2.0,15.0,Cash,0,30.3,7
+3777,Male,38,New York,Fitness,1757.34,2023-04-12,2.0,25.0,Credit Card,0,45.4,8
+2579,Male,34,New York,Books,1815.99,2023-04-13,2.0,10.0,Cash,0,49.6,6
+1161,Male,39,London,Home Decor,4029.54,2023-04-14,3.0,20.0,Credit Card,1,52.9,2
+1201,Female,65,New York,Fitness,1644.26,2023-04-15,3.0,20.0,Crypto,0,29.8,7
+2981,Male,54,Mumbai,Home Decor,1049.25,2023-04-16,3.0,0.0,Cash,0,38.2,9
+1995,Female,32,Mumbai,Electronics,428.02,2023-04-17,2.0,10.0,PayPal,0,5.7,5
+3317,Other,52,Mumbai,Electronics,2336.13,2023-04-18,4.0,20.0,Credit Card,0,29.8,2
+4934,Female,45,London,Electronics,2413.25,2023-04-19,2.0,0.0,Credit Card,0,10.1,4
+1815,Female,24,Mumbai,Home Decor,4205.34,2023-04-20,3.0,10.0,Debit Card,0,22.8,3
+4342,Male,49,New York,Fitness,1110.09,2023-04-21,3.0,15.0,Cash,0,20.4,4
+1455,Female,28,Berlin,Electronics,1908.05,2023-04-22,4.0,,PayPal,0,26.0,7
+4533,Female,27,Berlin,Fitness,4042.99,2023-04-23,4.0,15.0,Crypto,0,34.7,8
+4798,Female,26,Tokyo,Home Decor,4119.0,2023-04-24,4.0,25.0,Debit Card,0,54.3,1
+2275,Male,31,New York,Fitness,1926.13,2023-04-25,2.0,10.0,PayPal,0,24.3,8
+2016,Male,30,Mumbai,Home Decor,2298.32,2023-04-26,3.0,25.0,Cash,0,58.9,5
+4773,Male,42,Berlin,Home Decor,1519.91,2023-04-27,1.0,15.0,PayPal,0,45.8,7
+3343,Female,19,New York,Books,4663.11,2023-04-28,3.0,30.0,Credit Card,1,31.2,1
+4796,Female,52,Berlin,Home Decor,597.63,2023-04-29,3.0,10.0,Credit Card,1,39.0,2
+3767,Female,24,Mumbai,Home Decor,4669.08,2023-04-30,1.0,20.0,Debit Card,0,7.0,1
+4820,Male,38,Berlin,Clothing,,2023-05-01,2.0,20.0,Cash,0,50.8,5
+1337,Female,35,Tokyo,Electronics,2660.2,2023-05-02,,10.0,Cash,0,35.4,6
+1878,Male,20,Tokyo,Books,168.13,2023-05-03,,0.0,PayPal,0,59.2,9
+2076,Male,59,Berlin,Books,2380.6,2023-05-04,3.0,0.0,Debit Card,0,38.5,8
+1791,Male,56,New York,Books,,2023-05-05,1.0,0.0,Cash,0,50.2,7
+4993,Female,58,New York,Clothing,810.29,2023-05-06,2.0,30.0,Credit Card,0,48.2,5
+3264,Male,66,New York,Home Decor,3283.77,2023-05-07,3.0,5.0,PayPal,0,21.4,3
+1763,Female,28,Berlin,Electronics,4855.9,2023-05-08,5.0,5.0,Crypto,0,16.3,9
+3235,Female,56,New York,Fitness,2813.13,2023-05-09,2.0,20.0,Credit Card,0,26.4,5
+1379,Male,41,Mumbai,Home Decor,3575.19,2023-05-10,4.0,10.0,Debit Card,0,28.6,3
+1492,Female,63,Tokyo,Clothing,346.91,2023-05-11,2.0,15.0,Cash,0,15.2,3
+4112,Male,36,Mumbai,Home Decor,2091.25,2023-05-12,,0.0,Credit Card,0,53.8,3
+2180,Male,21,New York,Home Decor,586.21,2023-05-13,3.0,,Crypto,0,33.0,6
+3062,Male,43,Mumbai,Clothing,3065.92,2023-05-14,4.0,30.0,Crypto,0,58.7,1
+4884,Male,55,New York,Books,4692.72,2023-05-15,3.0,30.0,Debit Card,0,48.8,4
+1064,Female,59,Berlin,Books,3310.58,2023-05-16,4.0,10.0,Credit Card,1,33.8,8
+4928,Male,49,Mumbai,Electronics,388.63,2023-05-17,2.0,25.0,PayPal,0,56.9,3
+4910,Female,56,Berlin,Electronics,1776.56,2023-05-18,2.0,0.0,Credit Card,0,30.8,5
+3568,Female,62,Berlin,Books,2755.56,2023-05-19,5.0,0.0,Crypto,0,53.3,2
+2367,Female,63,London,Fitness,2019.02,2023-05-20,5.0,0.0,Debit Card,0,22.1,2
+2152,Female,53,New York,Home Decor,10000.0,2023-05-21,4.0,15.0,Debit Card,1,23.3,7
+3027,Female,57,Tokyo,Fitness,4074.28,2023-05-22,4.0,15.0,PayPal,0,25.7,3
+3695,Male,54,New York,Home Decor,3061.1,2023-05-23,4.0,15.0,Debit Card,0,33.3,5
+2495,Male,50,Tokyo,Books,1870.42,2023-05-24,1.0,0.0,Debit Card,0,33.7,3
+4134,Female,53,New York,Electronics,1280.41,2023-05-25,3.0,10.0,Debit Card,0,30.3,6
+2162,Female,20,Berlin,Electronics,533.84,2023-05-26,3.0,20.0,Debit Card,0,19.1,3
+2522,Male,26,Mumbai,Fitness,1777.71,2023-05-27,4.0,10.0,Debit Card,0,55.7,8
+3640,Female,25,Mumbai,Electronics,2068.8,2023-05-28,3.0,20.0,Crypto,0,35.7,2
+1391,Male,50,London,Books,3380.74,2023-05-29,2.0,5.0,Credit Card,0,25.1,3
+2698,Female,23,Tokyo,Fitness,3292.51,2023-05-30,3.0,25.0,Cash,0,39.4,8
+1418,Male,58,Tokyo,Home Decor,355.19,2023-05-31,4.0,15.0,Debit Card,0,46.3,8
+3336,Male,56,Tokyo,Electronics,1979.32,2023-06-01,3.0,5.0,Cash,0,57.7,1
+1378,Male,21,Berlin,Clothing,912.99,2023-06-02,2.0,5.0,Cash,0,30.5,8
+2796,Female,30,Tokyo,Electronics,788.28,2023-06-03,2.0,20.0,Crypto,0,7.6,2
+4561,Female,66,Mumbai,Home Decor,4137.37,2023-06-04,2.0,25.0,Debit Card,0,27.0,7
+3278,Male,19,Berlin,Fitness,214.37,2023-06-05,2.0,10.0,Cash,0,29.3,6
+4065,Female,22,New York,Home Decor,2098.82,2023-06-06,4.0,5.0,Debit Card,0,53.9,2
+3088,Male,61,Tokyo,Clothing,845.18,2023-06-07,4.0,30.0,PayPal,0,24.3,5
+4099,Female,44,Tokyo,Books,4397.25,2023-06-08,4.0,20.0,PayPal,0,57.2,7
+3182,Male,49,New York,Electronics,2787.42,2023-06-09,3.0,10.0,PayPal,0,29.6,8
+1200,Male,38,Tokyo,Fitness,1160.75,2023-06-10,4.0,15.0,Cash,0,58.5,3
+2863,Female,25,New York,Books,2514.62,2023-06-11,2.0,5.0,PayPal,0,1.5,1
+1779,Other,55,Berlin,Home Decor,3658.77,2023-06-12,3.0,20.0,Crypto,0,54.0,7
+3977,Female,25,Mumbai,Fitness,4790.8,2023-06-13,4.0,10.0,Crypto,0,55.9,5
+4104,Female,67,New York,Books,10000.0,2023-06-14,2.0,,Cash,0,57.7,5
+4119,Female,20,London,Fitness,4431.48,2023-06-15,2.0,15.0,Debit Card,0,1.8,7
+1502,Male,61,New York,Clothing,4671.85,2023-06-16,4.0,15.0,Credit Card,0,11.1,1
+3454,Other,20,Tokyo,Clothing,4582.52,2023-06-17,3.0,15.0,Debit Card,0,39.6,8
+4645,Female,39,Berlin,Electronics,3178.89,2023-06-18,4.0,30.0,Debit Card,0,2.5,5
+2751,Female,23,Berlin,Electronics,3150.95,2023-06-19,1.0,25.0,Debit Card,0,4.8,8
+1804,Female,19,New York,Clothing,2019.04,2023-06-20,4.0,15.0,Debit Card,0,14.0,5
+3146,Female,40,Mumbai,Fitness,3763.23,2023-06-21,3.0,20.0,Credit Card,0,31.2,7
+3731,Female,61,London,Clothing,2658.81,2023-06-22,1.0,15.0,PayPal,1,33.2,3
+2895,Male,19,Berlin,Electronics,3388.8,2023-06-23,4.0,15.0,Debit Card,1,3.0,2
+3773,Female,55,Tokyo,Clothing,2145.15,2023-06-24,2.0,0.0,Crypto,0,11.1,6
+2570,Male,34,Tokyo,Clothing,3658.82,2023-06-25,3.0,15.0,Cash,1,30.5,5
+1960,Other,52,Mumbai,Fitness,4123.24,2023-06-26,1.0,5.0,Cash,0,36.0,9
+4810,Female,51,Berlin,Books,736.45,2023-06-27,2.0,30.0,Crypto,0,9.8,4
+3660,Male,40,New York,Electronics,4165.48,2023-06-28,2.0,10.0,Debit Card,0,24.5,3
+2485,Female,47,Tokyo,Fitness,2703.78,2023-06-29,1.0,,Credit Card,1,54.4,9
+3690,Female,69,Mumbai,Clothing,4224.11,2023-06-30,5.0,15.0,PayPal,0,59.9,8
+4840,Female,25,Berlin,Clothing,2159.35,2023-07-01,1.0,20.0,Cash,0,59.2,6
+2028,Female,39,Berlin,Books,1898.31,2023-07-02,3.0,15.0,PayPal,0,53.0,1
+4289,Male,61,Berlin,Electronics,4575.73,2023-07-03,2.0,0.0,Credit Card,0,24.3,1
+1502,Female,53,Berlin,Electronics,1259.59,2023-07-04,3.0,10.0,Cash,0,41.5,6
+3814,Female,22,Berlin,Home Decor,4221.84,2023-07-05,5.0,0.0,PayPal,0,25.6,3
+1397,Male,30,Tokyo,Electronics,2422.68,2023-07-06,2.0,20.0,Credit Card,0,39.3,3
+1870,Female,46,Mumbai,Books,2572.91,2023-07-07,,10.0,PayPal,0,19.3,6
+3842,Male,48,Berlin,Home Decor,1545.8,2023-07-08,2.0,25.0,Debit Card,0,36.8,3
+1392,Male,64,London,Home Decor,2867.35,2023-07-09,4.0,5.0,Credit Card,0,31.9,6
+1206,Female,33,London,Clothing,1629.43,2023-07-10,3.0,0.0,PayPal,0,2.4,5
+2038,Female,59,Mumbai,Clothing,201.15,2023-07-11,4.0,10.0,Debit Card,0,47.7,4
+2881,Male,47,New York,Electronics,1363.63,2023-07-12,3.0,30.0,Debit Card,0,1.7,8
+4625,Female,33,New York,Home Decor,36.86,2023-07-13,3.0,20.0,Credit Card,0,18.3,2
+3939,Male,29,New York,Clothing,4891.88,2023-07-14,2.0,10.0,Crypto,0,1.3,7
+2484,Male,34,London,Books,4828.91,2023-07-15,2.0,15.0,Cash,0,23.2,4
+4762,Male,33,New York,Clothing,1978.8,2023-07-16,5.0,0.0,Credit Card,0,4.7,2
+4646,Male,29,Tokyo,Clothing,3643.21,2023-07-17,3.0,,Debit Card,0,54.9,7
+1863,Male,25,Berlin,Home Decor,1732.3,2023-07-18,3.0,20.0,Debit Card,0,25.5,1
+3790,Female,37,London,Home Decor,3357.11,2023-07-19,4.0,5.0,Credit Card,0,28.1,4
+4312,Female,20,Mumbai,Fitness,4028.12,2023-07-20,3.0,15.0,Crypto,0,21.6,9
+1563,Male,33,Mumbai,Books,4734.05,2023-07-21,,0.0,Cash,0,38.0,4
+2020,Female,47,Berlin,Home Decor,2004.06,2023-07-22,4.0,,PayPal,0,47.3,3
+1095,Female,62,London,Electronics,3917.57,2023-07-23,3.0,0.0,Credit Card,0,39.2,2
+2923,Male,40,New York,Books,,2023-07-24,4.0,20.0,Cash,0,45.1,3
+2757,Female,45,New York,Books,4951.71,2023-07-25,1.0,5.0,Cash,0,54.5,1
+3532,Other,68,Tokyo,Home Decor,133.72,2023-07-26,2.0,20.0,Debit Card,0,51.9,8
+4478,Male,57,Tokyo,Books,3019.63,2023-07-27,3.0,25.0,PayPal,0,40.8,1
+3278,Male,22,New York,Home Decor,3299.23,2023-07-28,2.0,20.0,Credit Card,0,13.7,3
+3796,Female,37,Mumbai,Clothing,3441.79,2023-07-29,4.0,20.0,Debit Card,0,38.6,3
+2678,Female,57,Mumbai,Fitness,606.34,2023-07-30,5.0,30.0,Debit Card,0,30.9,2
+4242,Male,61,Tokyo,Clothing,4692.96,2023-07-31,3.0,0.0,Crypto,0,43.3,5
+1540,Female,18,Berlin,Home Decor,910.01,2023-08-01,3.0,10.0,Cash,0,50.1,3
+2059,Female,47,New York,Home Decor,3115.65,2023-08-02,,5.0,Credit Card,0,44.8,3
+3572,Female,38,Tokyo,Clothing,1117.27,2023-08-03,3.0,,Credit Card,0,50.9,8
+2183,Female,37,Tokyo,Electronics,1539.55,2023-08-04,3.0,10.0,Credit Card,0,4.8,4
+4910,Female,23,New York,Electronics,2734.56,2023-08-05,3.0,20.0,Debit Card,0,2.9,4
+2722,Male,39,New York,Electronics,,2023-08-06,5.0,20.0,Crypto,0,16.3,3
+4314,Male,35,Mumbai,Home Decor,805.33,2023-08-07,3.0,5.0,PayPal,0,54.1,1
+4157,Female,25,Berlin,Books,858.83,2023-08-08,4.0,5.0,Debit Card,0,49.6,8
+2819,Female,56,Berlin,Home Decor,2093.63,2023-08-09,4.0,5.0,PayPal,0,41.3,1
+3625,Male,49,New York,Books,3787.63,2023-08-10,3.0,10.0,Crypto,0,42.3,7
+3729,Female,50,London,Clothing,4490.33,2023-08-11,3.0,5.0,Cash,0,43.9,5
+3604,Female,33,Tokyo,Fitness,425.22,2023-08-12,4.0,0.0,Credit Card,0,56.6,4
+2597,Male,29,Tokyo,Books,1968.55,2023-08-13,3.0,30.0,PayPal,1,50.1,4
+4060,Female,55,New York,Electronics,505.73,2023-08-14,4.0,,Debit Card,0,37.8,8
+3693,Female,69,London,Home Decor,87.88,2023-08-15,5.0,10.0,PayPal,0,40.3,6
+1795,Female,51,Mumbai,Clothing,3310.28,2023-08-16,4.0,10.0,Cash,0,13.6,1
+2051,Female,31,New York,Electronics,3014.23,2023-08-17,4.0,0.0,Credit Card,0,39.8,8
+2643,Male,53,New York,Clothing,819.28,2023-08-18,4.0,20.0,PayPal,0,26.1,2
+4627,Female,50,Tokyo,Fitness,1172.9,2023-08-19,4.0,25.0,Cash,0,10.0,6
+2363,Male,40,New York,Home Decor,123.42,2023-08-20,3.0,0.0,Debit Card,1,48.6,9
+4869,Male,67,New York,Home Decor,,2023-08-21,1.0,0.0,Crypto,0,31.1,1
+2981,Female,62,New York,Fitness,4873.58,2023-08-22,3.0,25.0,Debit Card,0,58.7,6
+2354,Male,19,Tokyo,Home Decor,681.62,2023-08-23,4.0,20.0,Credit Card,0,17.6,8
+2663,Male,58,Mumbai,Books,1161.22,2023-08-24,3.0,0.0,Debit Card,0,29.4,2
+2529,Female,38,Mumbai,Clothing,4342.71,2023-08-25,4.0,20.0,Debit Card,0,27.4,5
+3038,Male,19,New York,Electronics,4632.69,2023-08-26,3.0,10.0,Debit Card,0,8.1,6
+4419,Male,44,Tokyo,Fitness,2101.04,2023-08-27,4.0,10.0,Debit Card,0,26.1,5
+2496,Female,26,Mumbai,Books,257.86,2023-08-28,2.0,25.0,Credit Card,0,18.0,3
+4302,Female,18,Mumbai,Electronics,201.76,2023-08-29,4.0,25.0,Cash,0,10.5,4
+3237,Male,28,Mumbai,Electronics,2871.88,2023-08-30,3.0,10.0,PayPal,0,17.6,7
+4296,Female,20,Tokyo,Fitness,1967.51,2023-08-31,2.0,30.0,Crypto,0,14.8,4
+2408,Female,69,Tokyo,Books,148.12,2023-09-01,2.0,10.0,PayPal,1,44.3,9
+2400,Female,40,New York,Electronics,2918.35,2023-09-02,4.0,25.0,PayPal,0,2.8,2
+2306,Female,43,Berlin,Electronics,61.46,2023-09-03,3.0,15.0,Crypto,0,37.4,5
+3680,Other,21,Mumbai,Books,3937.92,2023-09-04,2.0,30.0,Credit Card,0,45.9,8
+3675,Female,35,Berlin,Home Decor,1535.63,2023-09-05,,30.0,Crypto,0,29.4,5
+1972,Female,23,Tokyo,Electronics,10000.0,2023-09-06,4.0,0.0,Credit Card,1,56.0,8
+2768,Female,52,Tokyo,Clothing,2943.82,2023-09-07,,30.0,PayPal,0,42.8,8
+2282,Male,39,Tokyo,Books,1991.43,2023-09-08,3.0,25.0,Credit Card,0,45.1,9
+4430,Male,60,Berlin,Electronics,4869.13,2023-09-09,3.0,25.0,Cash,0,12.6,6
+1709,Female,32,Tokyo,Fitness,2723.27,2023-09-10,4.0,5.0,Crypto,0,46.9,4
+2479,Female,39,New York,Clothing,1379.82,2023-09-11,3.0,25.0,Cash,0,50.1,3
+2434,Female,54,Tokyo,Electronics,10000.0,2023-09-12,4.0,30.0,PayPal,0,22.3,5
+1648,Male,69,London,Clothing,1361.1,2023-09-13,2.0,5.0,Crypto,0,13.6,6
+1317,Female,59,Berlin,Clothing,4521.7,2023-09-14,3.0,,PayPal,1,23.7,3
+4748,Male,29,London,Home Decor,1876.74,2023-09-15,2.0,0.0,Cash,0,44.6,2
+4296,Male,64,Tokyo,Clothing,2751.59,2023-09-16,2.0,0.0,PayPal,0,25.6,7
+4890,Female,66,New York,Home Decor,257.61,2023-09-17,1.0,15.0,Crypto,0,44.5,5
+2257,Female,59,Mumbai,Books,2133.48,2023-09-18,1.0,15.0,Crypto,0,7.7,9
+1683,Female,55,Tokyo,Home Decor,4162.66,2023-09-19,,20.0,PayPal,0,48.6,3
+1663,Female,35,New York,Fitness,4029.22,2023-09-20,2.0,0.0,Crypto,1,15.9,8
+2998,Male,62,Berlin,Electronics,1125.47,2023-09-21,4.0,,Crypto,0,15.7,6
+4898,Female,52,London,Books,10000.0,2023-09-22,4.0,0.0,PayPal,1,35.8,4
+4445,Male,47,London,Books,4087.44,2023-09-23,3.0,0.0,Cash,0,5.1,9
+4743,Female,41,London,Fitness,4652.34,2023-09-24,2.0,0.0,Crypto,0,2.6,5
+2631,Female,59,Berlin,Home Decor,,2023-09-25,4.0,15.0,Crypto,0,16.4,6
+2495,Female,47,New York,Electronics,10000.0,2023-09-26,4.0,30.0,Crypto,0,32.7,9
+4304,Female,31,Berlin,Home Decor,1690.58,2023-09-27,4.0,20.0,Crypto,0,54.5,7
+4763,Female,23,London,Clothing,4354.09,2023-09-28,4.0,25.0,PayPal,0,50.9,5
+2136,Female,20,Tokyo,Home Decor,422.21,2023-09-29,,0.0,Cash,0,29.9,2
+2853,Male,33,Mumbai,Books,1059.57,2023-09-30,3.0,15.0,Cash,0,3.2,4
+2520,Male,24,Berlin,Electronics,3763.58,2023-10-01,3.0,15.0,Credit Card,1,32.6,2
+3489,Male,69,Berlin,Home Decor,261.21,2023-10-02,4.0,15.0,Crypto,0,42.6,3
+1563,Male,31,New York,Electronics,2465.21,2023-10-03,1.0,0.0,Crypto,0,21.0,3
+2291,Female,26,New York,Electronics,,2023-10-04,4.0,20.0,Credit Card,0,7.6,4
+4581,Female,32,Berlin,Clothing,1675.33,2023-10-05,2.0,15.0,Cash,0,17.4,6
+4878,Male,38,London,Clothing,1975.89,2023-10-06,3.0,25.0,Debit Card,0,46.5,3
+4457,Male,52,Mumbai,Books,2652.05,2023-10-07,4.0,15.0,Debit Card,1,21.7,1
+4458,Male,19,New York,Fitness,811.03,2023-10-08,3.0,0.0,Cash,0,48.9,1
+4184,Female,44,London,Electronics,2862.12,2023-10-09,3.0,20.0,Crypto,0,19.9,9
+2636,Female,19,Tokyo,Fitness,4028.13,2023-10-10,3.0,0.0,Debit Card,0,10.6,9
+4696,Male,52,New York,Books,3802.0,2023-10-11,4.0,30.0,PayPal,0,26.7,5
+3999,Female,35,London,Electronics,773.73,2023-10-12,3.0,20.0,PayPal,0,27.7,9
+4152,Female,31,London,Electronics,750.5,2023-10-13,4.0,0.0,Credit Card,0,2.0,7
+1698,Male,37,Mumbai,Fitness,1344.53,2023-10-14,1.0,,Cash,0,7.9,9
+3160,Female,35,Mumbai,Home Decor,,2023-10-15,4.0,15.0,Cash,0,11.9,7
+1001,Female,27,Tokyo,Clothing,2045.24,2023-10-16,4.0,0.0,Debit Card,0,7.7,9
+1641,Male,42,London,Home Decor,3400.09,2023-10-17,2.0,20.0,Crypto,0,21.2,2
+3267,Male,19,London,Fitness,288.12,2023-10-18,3.0,5.0,Cash,0,57.9,8
+2589,Male,42,Mumbai,Clothing,,2023-10-19,2.0,25.0,Debit Card,1,31.0,7
+1854,Male,50,New York,Home Decor,1962.59,2023-10-20,4.0,25.0,Debit Card,0,38.0,6
+2759,Female,53,New York,Clothing,3487.33,2023-10-21,3.0,,Cash,1,22.0,5
+4296,Female,48,Berlin,Electronics,971.21,2023-10-22,4.0,15.0,Debit Card,0,20.1,4
+3432,Male,31,Mumbai,Home Decor,3209.31,2023-10-23,2.0,15.0,Credit Card,0,2.4,7
+4474,Male,18,Berlin,Clothing,1302.84,2023-10-24,2.0,25.0,Credit Card,0,30.5,3
+2661,Male,63,Mumbai,Clothing,4431.0,2023-10-25,1.0,0.0,Cash,0,29.5,8
+2153,Male,33,Tokyo,Clothing,4478.97,2023-10-26,3.0,15.0,Crypto,0,10.3,2
+2076,Female,63,London,Home Decor,1489.95,2023-10-27,3.0,15.0,Credit Card,0,46.1,1
+2707,Male,69,Tokyo,Books,1153.82,2023-10-28,4.0,0.0,Credit Card,0,30.1,2
+3777,Male,20,Mumbai,Home Decor,2059.46,2023-10-29,4.0,10.0,Cash,0,21.0,9
+2695,Male,52,London,Fitness,1206.46,2023-10-30,3.0,30.0,PayPal,0,9.7,5
+2733,Female,58,New York,Home Decor,3363.56,2023-10-31,,30.0,Debit Card,0,33.6,8
+2439,Male,23,New York,Clothing,4131.19,2023-11-01,4.0,0.0,Credit Card,0,45.4,3
+3294,Female,42,Berlin,Electronics,3367.1,2023-11-02,5.0,0.0,PayPal,1,17.6,7
+1835,Male,30,Mumbai,Home Decor,4122.63,2023-11-03,3.0,5.0,Crypto,0,13.9,2
+4510,Female,51,Mumbai,Home Decor,1987.98,2023-11-04,2.0,30.0,PayPal,0,31.8,8
+1202,Female,25,New York,Clothing,785.8,2023-11-05,1.0,0.0,Cash,0,10.2,7
+4255,Male,38,Tokyo,Electronics,3691.06,2023-11-06,4.0,20.0,Crypto,0,40.3,5
+1122,Male,51,London,Electronics,1805.57,2023-11-07,2.0,0.0,Crypto,0,36.7,4
+1400,Female,21,Tokyo,Fitness,3358.0,2023-11-08,3.0,20.0,PayPal,0,6.1,1
+1766,Female,42,Tokyo,Home Decor,1356.87,2023-11-09,3.0,10.0,Cash,0,3.2,5
+1293,Male,32,New York,Electronics,410.74,2023-11-10,3.0,25.0,Credit Card,0,37.6,9
+3327,Female,21,New York,Electronics,4962.95,2023-11-11,4.0,5.0,PayPal,0,18.4,4
+4908,Female,62,New York,Books,785.23,2023-11-12,2.0,20.0,Credit Card,0,6.1,9
+3931,Female,29,Berlin,Books,4942.16,2023-11-13,3.0,5.0,PayPal,0,45.8,2
+4681,Male,49,Tokyo,Electronics,4886.51,2023-11-14,4.0,20.0,Credit Card,0,19.5,4
+1197,Female,49,Mumbai,Fitness,3970.12,2023-11-15,,30.0,PayPal,0,28.1,9
+4029,Male,45,London,Electronics,3298.82,2023-11-16,4.0,0.0,Crypto,0,15.0,4
+2930,Female,30,Berlin,Clothing,2891.15,2023-11-17,5.0,30.0,Debit Card,1,38.0,5
+4582,Male,48,Mumbai,Home Decor,10000.0,2023-11-18,4.0,15.0,Crypto,0,18.8,8
+3799,Male,31,Tokyo,Fitness,1450.75,2023-11-19,3.0,0.0,Credit Card,0,58.1,1
+3191,Male,37,New York,Clothing,2341.07,2023-11-20,2.0,10.0,Cash,0,42.5,1
+1608,Female,35,Tokyo,Fitness,3098.85,2023-11-21,4.0,0.0,Crypto,0,9.1,9
+4272,Male,46,London,Clothing,2058.9,2023-11-22,4.0,20.0,Debit Card,1,25.6,9
+2147,Male,23,Berlin,Home Decor,2140.29,2023-11-23,4.0,25.0,Credit Card,0,23.7,4
+1186,Male,49,Berlin,Home Decor,1654.77,2023-11-24,3.0,0.0,Crypto,0,32.5,2
+4397,Female,46,London,Books,2823.34,2023-11-25,3.0,15.0,PayPal,0,50.7,9
+3511,Other,60,Mumbai,Clothing,4253.62,2023-11-26,3.0,25.0,Cash,0,35.4,4
+4420,Male,19,Mumbai,Books,1011.63,2023-11-27,3.0,30.0,Credit Card,0,4.6,6
+2794,Female,40,Berlin,Clothing,4672.49,2023-11-28,2.0,15.0,Crypto,0,39.7,1
+1659,Female,36,Berlin,Books,3446.99,2023-11-29,4.0,,Credit Card,0,1.5,9
+3811,Female,48,New York,Home Decor,4117.25,2023-11-30,2.0,15.0,PayPal,0,47.0,5
+4002,Male,68,Mumbai,Fitness,2783.17,2023-12-01,1.0,10.0,Debit Card,0,40.3,3
+2955,Male,22,London,Books,3898.69,2023-12-02,3.0,25.0,Crypto,0,19.2,4
+3450,Male,36,Mumbai,Clothing,10000.0,2023-12-03,4.0,15.0,Credit Card,1,18.3,1
+2369,Male,51,New York,Clothing,4092.81,2023-12-04,3.0,15.0,Credit Card,0,48.1,9
+2986,Male,27,Berlin,Home Decor,205.49,2023-12-05,2.0,15.0,Credit Card,0,47.2,8
+2534,Female,42,Berlin,Clothing,4450.12,2023-12-06,3.0,25.0,Debit Card,0,21.8,4
+1146,Male,19,New York,Electronics,4959.85,2023-12-07,3.0,25.0,Credit Card,0,18.6,2
+4219,Male,28,London,Fitness,1473.87,2023-12-08,5.0,10.0,Cash,0,34.0,9
+3911,Female,67,Berlin,Books,1055.54,2023-12-09,5.0,10.0,Cash,0,1.5,4
+2734,Male,48,Tokyo,Fitness,3827.99,2023-12-10,3.0,15.0,Credit Card,0,5.9,9
+2843,Female,32,Berlin,Home Decor,1268.87,2023-12-11,3.0,15.0,Cash,0,8.4,3
+1488,Female,26,Tokyo,Books,4328.48,2023-12-12,4.0,5.0,Crypto,0,11.9,7
+3976,Male,40,New York,Books,518.7,2023-12-13,1.0,25.0,Cash,0,31.2,7
+2959,Female,36,New York,Electronics,634.15,2023-12-14,3.0,15.0,Credit Card,0,59.5,4
+2663,Female,26,Berlin,Home Decor,4895.86,2023-12-15,3.0,10.0,PayPal,1,39.5,2
+3598,Female,52,Mumbai,Clothing,3370.83,2023-12-16,5.0,0.0,Crypto,0,4.6,9
+3385,Female,38,Tokyo,Electronics,4235.2,2023-12-17,1.0,5.0,Debit Card,0,32.0,4
+3919,Female,26,London,Electronics,1625.03,2023-12-18,3.0,30.0,Credit Card,0,30.3,8
+1640,Female,45,Berlin,Fitness,3384.04,2023-12-19,4.0,10.0,Debit Card,0,9.5,2
+2802,Male,63,London,Fitness,2973.24,2023-12-20,3.0,0.0,PayPal,0,55.3,8
+3520,Male,68,Berlin,Fitness,3017.73,2023-12-21,1.0,15.0,Debit Card,0,27.0,5
+2969,Male,24,Mumbai,Electronics,3414.25,2023-12-22,,10.0,Credit Card,0,59.7,7
+3198,Female,33,Mumbai,Clothing,2878.92,2023-12-23,3.0,0.0,Credit Card,0,25.8,7
+2438,Male,33,Mumbai,Books,2148.17,2023-12-24,4.0,10.0,PayPal,0,36.9,9
+4369,Female,50,Mumbai,Fitness,1383.23,2023-12-25,2.0,15.0,Credit Card,0,7.2,3
+2634,Female,21,New York,Clothing,3844.06,2023-12-26,3.0,15.0,PayPal,0,27.8,4
+1262,Female,21,New York,Home Decor,1135.23,2023-12-27,3.0,10.0,PayPal,0,15.1,4
+2787,Other,56,Tokyo,Fitness,3463.31,2023-12-28,1.0,10.0,Credit Card,0,50.3,5
+3191,Female,57,London,Books,1170.5,2023-12-29,2.0,,Cash,0,47.3,6
+3393,Female,34,Berlin,Home Decor,3128.52,2023-12-30,4.0,10.0,PayPal,0,49.6,3
+1623,Male,54,Berlin,Home Decor,3736.66,2023-12-31,2.0,5.0,Credit Card,0,43.7,4
+2016,Female,56,New York,Books,1097.48,2024-01-01,2.0,5.0,Cash,0,50.1,3
+4643,Male,69,Berlin,Fitness,304.42,2024-01-02,3.0,15.0,PayPal,0,12.8,2
+1880,Male,46,New York,Electronics,659.21,2024-01-03,4.0,25.0,Cash,1,27.7,9
+3049,Female,69,Tokyo,Books,3031.95,2024-01-04,1.0,5.0,Crypto,0,41.8,1
+3944,Female,53,London,Books,4247.98,2024-01-05,3.0,20.0,Crypto,0,38.6,2
+2327,Male,55,Tokyo,Books,229.76,2024-01-06,2.0,0.0,Cash,0,43.3,8
+3301,Female,56,Mumbai,Home Decor,3672.09,2024-01-07,1.0,10.0,PayPal,0,14.2,7
+4723,Female,67,Mumbai,Clothing,1709.89,2024-01-08,1.0,25.0,Credit Card,0,6.8,1
+1452,Female,54,Mumbai,Electronics,2395.25,2024-01-09,4.0,10.0,Debit Card,0,55.1,5
+4108,Female,69,Tokyo,Fitness,4644.65,2024-01-10,2.0,15.0,Credit Card,0,34.1,6
+2183,Female,52,Berlin,Fitness,1663.2,2024-01-11,1.0,5.0,Debit Card,0,10.1,5
+4062,Other,24,London,Clothing,2329.36,2024-01-12,3.0,20.0,Debit Card,0,47.8,4
+3056,Female,44,Mumbai,Books,73.34,2024-01-13,4.0,0.0,PayPal,0,55.0,1
+4304,Female,45,Mumbai,Electronics,412.59,2024-01-14,2.0,30.0,Cash,0,11.0,7
+4170,Other,39,Mumbai,Fitness,1296.66,2024-01-15,3.0,0.0,Credit Card,0,49.2,9
+2682,Female,31,London,Fitness,144.12,2024-01-16,1.0,30.0,Cash,0,56.1,6
+3863,Male,24,Mumbai,Books,3158.72,2024-01-17,3.0,10.0,Crypto,0,56.4,3
+3255,Male,54,London,Clothing,2134.86,2024-01-18,3.0,20.0,PayPal,0,54.9,4
+2154,Male,39,Mumbai,Electronics,2742.99,2024-01-19,3.0,10.0,PayPal,0,33.2,5
+1403,Male,22,Tokyo,Clothing,877.36,2024-01-20,3.0,30.0,Crypto,0,22.0,1
+3199,Female,19,Tokyo,Clothing,1483.18,2024-01-21,3.0,0.0,Credit Card,0,1.4,5
+3101,Female,44,London,Electronics,3320.8,2024-01-22,2.0,0.0,Crypto,0,4.6,1
+4191,Female,38,Tokyo,Electronics,4826.69,2024-01-23,3.0,15.0,Credit Card,1,26.3,9
+2696,Male,55,London,Fitness,256.83,2024-01-24,1.0,0.0,Debit Card,0,24.6,7
+4991,Female,32,Tokyo,Fitness,4452.47,2024-01-25,4.0,0.0,PayPal,0,11.9,3
+1627,Female,38,Tokyo,Electronics,2886.52,2024-01-26,,30.0,Credit Card,0,24.3,9
+1586,Female,27,London,Home Decor,2821.78,2024-01-27,,,Cash,0,11.3,2
+2648,Female,40,Berlin,Fitness,2503.89,2024-01-28,4.0,10.0,Cash,0,51.1,7
+2443,Female,56,Tokyo,Home Decor,351.62,2024-01-29,4.0,30.0,PayPal,0,18.6,9
+2445,Male,22,Mumbai,Electronics,,2024-01-30,4.0,15.0,Crypto,0,36.3,6
+1103,Female,18,Berlin,Fitness,3006.56,2024-01-31,2.0,5.0,Crypto,0,30.7,5
+4923,Male,30,London,Clothing,1708.09,2024-02-01,4.0,20.0,Credit Card,1,4.1,7
+1253,Male,38,Berlin,Electronics,4586.75,2024-02-02,3.0,20.0,Crypto,0,56.6,6
+4298,Female,43,New York,Books,2035.92,2024-02-03,3.0,,PayPal,0,32.1,5
+4183,Male,67,New York,Home Decor,720.69,2024-02-04,4.0,5.0,Credit Card,0,20.2,2
+3557,Female,62,Tokyo,Electronics,3575.02,2024-02-05,2.0,20.0,Debit Card,0,10.3,8
+2496,Male,38,Tokyo,Electronics,1470.3,2024-02-06,3.0,0.0,Crypto,0,21.0,7
+1098,Female,35,Mumbai,Fitness,2629.72,2024-02-07,5.0,0.0,Crypto,0,2.2,6
+3200,Male,54,Berlin,Fitness,3490.67,2024-02-08,1.0,0.0,Credit Card,0,22.4,5
+2884,Other,62,New York,Fitness,4501.82,2024-02-09,3.0,,Cash,0,32.4,5
+3961,Female,49,Tokyo,Books,3962.0,2024-02-10,5.0,25.0,Crypto,0,52.4,9
+2919,Male,53,Berlin,Fitness,3383.42,2024-02-11,4.0,25.0,PayPal,0,41.6,1
+1877,Female,34,Tokyo,Electronics,3399.77,2024-02-12,3.0,15.0,Crypto,0,7.6,9
+1337,Other,52,Tokyo,Fitness,4729.89,2024-02-13,2.0,10.0,Debit Card,0,9.7,6
+4777,Male,66,New York,Clothing,1482.64,2024-02-14,3.0,0.0,Crypto,0,26.3,4
+3869,Male,28,New York,Fitness,10.55,2024-02-15,4.0,5.0,Cash,0,12.5,7
+4234,Female,38,Tokyo,Books,1363.41,2024-02-16,3.0,10.0,Crypto,0,2.6,9
+4791,Female,69,London,Clothing,1093.37,2024-02-17,3.0,25.0,Credit Card,0,48.5,5
+1956,Female,43,Tokyo,Electronics,3310.86,2024-02-18,1.0,15.0,Crypto,0,2.2,5
+2704,Female,21,Tokyo,Electronics,3170.39,2024-02-19,1.0,0.0,Cash,0,50.0,8
+1160,Male,51,Mumbai,Home Decor,2969.34,2024-02-20,,0.0,Credit Card,0,9.5,7
+2603,Male,69,Mumbai,Clothing,86.14,2024-02-21,3.0,0.0,PayPal,0,58.5,8
+3848,Female,65,Mumbai,Home Decor,3645.25,2024-02-22,4.0,10.0,Credit Card,0,36.6,2
+1397,Male,35,London,Clothing,1621.03,2024-02-23,1.0,30.0,Debit Card,0,44.4,9
+2300,Male,57,London,Clothing,3326.95,2024-02-24,4.0,20.0,Credit Card,0,7.5,3
+1815,Female,52,Tokyo,Books,2785.11,2024-02-25,5.0,25.0,PayPal,0,51.9,6
+4987,Female,58,Mumbai,Home Decor,1716.94,2024-02-26,3.0,15.0,Crypto,1,50.5,6
+2527,Female,46,London,Books,677.21,2024-02-27,2.0,10.0,Credit Card,0,39.5,2
+2919,Female,69,New York,Clothing,476.62,2024-02-28,3.0,0.0,Credit Card,0,30.6,7
+2415,Female,46,Tokyo,Electronics,4158.43,2024-02-29,4.0,30.0,Credit Card,0,43.6,9
+2158,Female,55,Berlin,Clothing,4592.4,2024-03-01,3.0,25.0,Credit Card,0,1.3,1
+2218,Female,59,Tokyo,Books,3250.69,2024-03-02,4.0,0.0,PayPal,0,36.0,8
+1400,Male,38,Berlin,Home Decor,521.65,2024-03-03,4.0,15.0,Cash,0,51.0,2
+1639,Male,59,Mumbai,Home Decor,10000.0,2024-03-04,4.0,15.0,Cash,0,22.1,1
+4104,Female,30,Berlin,Books,3646.05,2024-03-05,4.0,20.0,Credit Card,0,7.4,8
+3735,Female,66,Mumbai,Home Decor,3900.21,2024-03-06,2.0,30.0,PayPal,0,25.8,2
+1459,Male,58,New York,Fitness,595.5,2024-03-07,3.0,15.0,PayPal,0,43.9,6
+1954,Male,34,Berlin,Electronics,,2024-03-08,2.0,15.0,Credit Card,1,7.3,6
+4954,Male,26,Tokyo,Electronics,3562.12,2024-03-09,5.0,0.0,Debit Card,0,13.2,5
+1469,Male,58,Mumbai,Electronics,1786.2,2024-03-10,4.0,0.0,Credit Card,0,9.7,8
+4446,Female,18,Tokyo,Home Decor,1276.13,2024-03-11,4.0,0.0,Debit Card,0,48.0,3
+2045,Male,19,London,Home Decor,69.42,2024-03-12,3.0,0.0,Credit Card,0,4.7,4
+3797,Female,65,Mumbai,Clothing,2703.8,2024-03-13,2.0,20.0,Debit Card,1,41.5,7
+2693,Female,46,Berlin,Clothing,10000.0,2024-03-14,4.0,20.0,Debit Card,0,22.6,7
+3085,Female,50,Mumbai,Electronics,4788.37,2024-03-15,3.0,0.0,Credit Card,0,45.6,8
+3277,Female,27,Tokyo,Fitness,2830.9,2024-03-16,2.0,25.0,Debit Card,0,57.9,2
+4436,Male,67,New York,Clothing,,2024-03-17,4.0,0.0,Crypto,0,7.8,2
+1562,Female,57,Mumbai,Clothing,429.86,2024-03-18,1.0,10.0,Cash,0,19.5,4
+3485,Male,38,Berlin,Home Decor,2746.62,2024-03-19,3.0,5.0,PayPal,0,48.8,9
+2799,Male,45,London,Fitness,1903.0,2024-03-20,3.0,10.0,Debit Card,1,16.7,9
+4354,Female,28,New York,Electronics,3037.64,2024-03-21,2.0,5.0,Debit Card,1,13.7,4
+3074,Male,51,London,Clothing,1946.69,2024-03-22,,15.0,PayPal,1,49.7,9
+1225,Male,25,Mumbai,Fitness,1205.29,2024-03-23,2.0,10.0,Debit Card,0,59.2,3
+4348,Female,39,Tokyo,Fitness,479.35,2024-03-24,2.0,,PayPal,0,33.9,5
+1797,Male,25,Tokyo,Electronics,1578.02,2024-03-25,2.0,0.0,Credit Card,0,17.4,9
+4680,Female,66,Berlin,Fitness,487.74,2024-03-26,4.0,0.0,Crypto,0,24.5,6
+3331,Male,32,Tokyo,Fitness,888.6,2024-03-27,3.0,0.0,Crypto,0,11.0,3
+3926,Female,34,New York,Fitness,4936.74,2024-03-28,3.0,20.0,Cash,0,46.0,9
+1959,Female,40,Tokyo,Clothing,2223.3,2024-03-29,1.0,0.0,Debit Card,0,46.6,6
+2504,Female,41,Berlin,Electronics,2661.7,2024-03-30,1.0,25.0,Cash,0,52.6,4
+1452,Female,62,Mumbai,Fitness,4368.72,2024-03-31,3.0,15.0,Credit Card,1,2.6,4
+4067,Male,36,Mumbai,Fitness,4977.87,2024-04-01,4.0,15.0,Crypto,0,34.2,8
+4900,Female,22,Tokyo,Clothing,2915.66,2024-04-02,4.0,15.0,Credit Card,1,13.6,7
+1815,Male,49,London,Electronics,4063.31,2024-04-03,1.0,0.0,Credit Card,0,21.1,1
+1658,Female,61,Mumbai,Home Decor,1638.07,2024-04-04,3.0,0.0,Debit Card,0,47.3,6
+4587,Male,18,Tokyo,Clothing,1532.19,2024-04-05,5.0,10.0,Credit Card,0,12.3,8
+1546,Female,40,Berlin,Electronics,2016.51,2024-04-06,3.0,15.0,Crypto,0,38.7,3
+2215,Male,54,Tokyo,Fitness,3364.17,2024-04-07,4.0,5.0,Cash,1,39.6,9
+4120,Female,25,Mumbai,Electronics,3412.55,2024-04-08,2.0,0.0,Crypto,0,57.3,2
+4583,Female,30,Berlin,Electronics,1579.62,2024-04-09,5.0,,Debit Card,0,46.7,6
+1016,Female,25,Tokyo,Electronics,670.38,2024-04-10,4.0,0.0,Crypto,0,48.4,1
+4243,Male,40,New York,Home Decor,3163.82,2024-04-11,5.0,25.0,PayPal,0,32.4,2
+2243,Female,60,Berlin,Electronics,645.99,2024-04-12,4.0,25.0,Cash,0,12.0,5
+3205,Male,18,New York,Home Decor,2894.57,2024-04-13,3.0,5.0,PayPal,1,26.1,1
+3524,Male,62,London,Fitness,3468.64,2024-04-14,5.0,0.0,PayPal,0,33.4,8
+2069,Male,68,Berlin,Home Decor,3504.55,2024-04-15,2.0,0.0,Debit Card,0,41.0,1
+4444,Male,41,New York,Fitness,3768.59,2024-04-16,3.0,20.0,Credit Card,0,36.9,9
+3565,Female,52,Mumbai,Fitness,4364.93,2024-04-17,4.0,20.0,PayPal,0,24.2,3
+3146,Female,41,Mumbai,Home Decor,2502.3,2024-04-18,4.0,25.0,Crypto,0,16.7,2
+4963,Male,34,London,Clothing,3652.59,2024-04-19,5.0,30.0,Credit Card,1,10.9,1
+2768,Male,22,Berlin,Books,3097.77,2024-04-20,2.0,20.0,Crypto,0,41.9,9
+2060,Male,37,Berlin,Electronics,,2024-04-21,4.0,0.0,Crypto,0,39.1,4
+3327,Male,38,Berlin,Books,133.32,2024-04-22,4.0,5.0,Credit Card,0,41.6,1
+4420,Other,57,London,Electronics,1426.28,2024-04-23,1.0,25.0,Credit Card,0,23.0,1
+3544,Male,48,Berlin,Electronics,2217.95,2024-04-24,3.0,5.0,Crypto,0,16.5,7
+1301,Male,63,Mumbai,Fitness,3087.44,2024-04-25,2.0,0.0,Debit Card,0,45.8,2
+1180,Male,53,New York,Electronics,4250.55,2024-04-26,3.0,20.0,Cash,0,46.6,7
+1606,Female,28,Mumbai,Electronics,985.25,2024-04-27,,10.0,Cash,0,27.9,7
+4170,Other,69,Mumbai,Home Decor,632.12,2024-04-28,4.0,30.0,Debit Card,0,37.1,9
+1699,Female,32,New York,Books,4817.58,2024-04-29,4.0,20.0,Credit Card,0,23.0,7
+1992,Female,36,Mumbai,Home Decor,544.68,2024-04-30,,0.0,Crypto,0,42.4,1
+2139,Female,24,London,Electronics,2395.06,2024-05-01,3.0,30.0,Cash,0,50.3,8
+1190,Male,68,New York,Fitness,2929.89,2024-05-02,4.0,5.0,Crypto,0,41.6,8
+3300,Female,45,Mumbai,Home Decor,2709.17,2024-05-03,3.0,10.0,Debit Card,0,31.2,4
+1980,Female,68,Tokyo,Home Decor,434.73,2024-05-04,4.0,10.0,Crypto,0,28.1,8
+3975,Female,60,Mumbai,Clothing,289.85,2024-05-05,2.0,0.0,Debit Card,0,38.9,4
+3006,Female,22,London,Electronics,531.89,2024-05-06,5.0,15.0,Credit Card,1,41.1,8
+2184,Female,22,Berlin,Fitness,2930.01,2024-05-07,2.0,0.0,Debit Card,0,34.0,5
+4327,Female,47,Mumbai,Home Decor,2724.0,2024-05-08,3.0,10.0,Debit Card,0,37.9,4
+4394,Other,49,Berlin,Home Decor,1172.54,2024-05-09,4.0,10.0,Cash,1,6.7,6
+1127,Female,25,Tokyo,Fitness,3190.68,2024-05-10,3.0,25.0,Crypto,0,57.2,2
+3065,Female,27,Mumbai,Electronics,4101.24,2024-05-11,4.0,25.0,Cash,0,47.7,2
+2816,Female,55,New York,Clothing,212.69,2024-05-12,3.0,0.0,PayPal,0,23.1,2
+2758,Male,64,Berlin,Home Decor,2493.16,2024-05-13,4.0,10.0,Debit Card,0,34.2,9
+3613,Female,49,Tokyo,Clothing,3448.11,2024-05-14,2.0,10.0,PayPal,0,3.8,3
+1569,Male,65,New York,Books,1265.3,2024-05-15,1.0,0.0,Cash,0,3.4,4
+2346,Female,45,New York,Electronics,1542.32,2024-05-16,2.0,25.0,Crypto,0,15.8,8
+2895,Other,34,New York,Books,3070.12,2024-05-17,3.0,20.0,Cash,1,41.7,4
+3733,Female,48,New York,Books,4490.19,2024-05-18,2.0,0.0,Crypto,0,51.3,7
+4863,Male,25,Mumbai,Books,4050.57,2024-05-19,3.0,10.0,Crypto,0,34.0,5
+1625,Male,57,Mumbai,Electronics,2917.74,2024-05-20,3.0,0.0,Credit Card,0,32.4,9
+4359,Male,42,Mumbai,Electronics,3652.46,2024-05-21,1.0,20.0,Debit Card,0,24.7,4
+3901,Female,26,Tokyo,Fitness,1827.29,2024-05-22,3.0,0.0,Cash,0,10.5,3
+2686,Male,19,Tokyo,Clothing,3206.62,2024-05-23,4.0,,Crypto,0,8.0,2
+4009,Male,32,Tokyo,Clothing,2333.58,2024-05-24,2.0,25.0,Cash,0,45.9,1
+4710,Male,67,London,Fitness,953.73,2024-05-25,3.0,10.0,Cash,0,55.7,6
+1154,Female,20,Tokyo,Fitness,3510.18,2024-05-26,4.0,15.0,Crypto,0,28.0,2
+3537,Female,66,Mumbai,Books,2784.54,2024-05-27,3.0,30.0,PayPal,0,39.9,8
+2409,Male,53,Mumbai,Fitness,1796.31,2024-05-28,4.0,15.0,Debit Card,0,55.0,6
+1784,Male,21,London,Home Decor,4557.14,2024-05-29,3.0,0.0,Debit Card,0,6.3,5
+4175,Female,31,London,Clothing,109.57,2024-05-30,3.0,10.0,Credit Card,0,46.5,2
+4464,Female,58,Tokyo,Fitness,1582.29,2024-05-31,1.0,25.0,Credit Card,0,37.4,7
+4882,Female,58,Berlin,Home Decor,289.12,2024-06-01,4.0,20.0,Credit Card,0,36.3,2
+1245,Male,42,London,Home Decor,3833.8,2024-06-02,4.0,20.0,Debit Card,0,18.3,5
+4247,Female,67,New York,Home Decor,3512.03,2024-06-03,1.0,30.0,PayPal,0,41.3,2
+4110,Female,27,Mumbai,Home Decor,1660.1,2024-06-04,3.0,30.0,Debit Card,0,47.9,2
+2500,Female,38,New York,Books,3379.94,2024-06-05,,30.0,Debit Card,0,7.7,7
+2705,Female,53,Mumbai,Home Decor,1982.71,2024-06-06,3.0,0.0,Debit Card,0,32.5,9
+3806,Male,29,Mumbai,Books,3782.49,2024-06-07,3.0,15.0,Debit Card,0,7.0,5
+1537,Male,44,London,Books,2273.65,2024-06-08,5.0,20.0,PayPal,0,52.5,7
+2890,Female,57,London,Home Decor,2064.34,2024-06-09,4.0,25.0,Credit Card,0,31.0,4
+2841,Female,19,New York,Clothing,4673.98,2024-06-10,3.0,20.0,Cash,0,48.7,2
+1920,Female,30,Mumbai,Home Decor,1258.14,2024-06-11,4.0,0.0,Credit Card,0,22.7,3
+3455,Female,49,New York,Home Decor,606.63,2024-06-12,4.0,25.0,Credit Card,0,8.4,2
+1524,Female,48,Berlin,Home Decor,2924.79,2024-06-13,3.0,20.0,Cash,0,3.4,5
+3875,Female,33,New York,Clothing,4846.76,2024-06-14,3.0,0.0,Debit Card,0,17.6,6
+2529,Male,49,Tokyo,Electronics,1892.31,2024-06-15,3.0,15.0,PayPal,0,15.4,7
+3950,Female,49,New York,Electronics,314.87,2024-06-16,,0.0,PayPal,0,34.1,3
+4896,Male,51,Tokyo,Books,1699.83,2024-06-17,4.0,10.0,Credit Card,0,2.3,4
+1035,Male,28,Tokyo,Books,2532.13,2024-06-18,1.0,0.0,Cash,0,31.7,8
+1684,Other,27,Tokyo,Clothing,813.81,2024-06-19,4.0,10.0,Crypto,0,24.1,4
+1019,Male,32,Berlin,Fitness,3292.22,2024-06-20,3.0,15.0,Debit Card,0,35.1,7
+3368,Male,34,New York,Electronics,4988.76,2024-06-21,1.0,20.0,Credit Card,0,42.4,6
+4847,Male,57,New York,Books,2261.44,2024-06-22,3.0,20.0,PayPal,0,38.4,7
+3559,Female,35,Berlin,Electronics,1776.87,2024-06-23,3.0,25.0,Cash,0,59.1,1
+1399,Male,26,Mumbai,Clothing,2006.52,2024-06-24,4.0,5.0,Cash,0,9.2,3
+3701,Male,42,London,Clothing,580.16,2024-06-25,2.0,0.0,Credit Card,1,26.4,6
+1971,Male,57,New York,Fitness,4416.95,2024-06-26,4.0,30.0,Crypto,0,26.1,3
+2906,Male,31,London,Fitness,2077.05,2024-06-27,3.0,0.0,PayPal,0,25.6,7
+3518,Male,42,Berlin,Clothing,1939.44,2024-06-28,1.0,,Credit Card,0,40.2,9
+2166,Male,67,Mumbai,Books,3300.15,2024-06-29,,25.0,Crypto,0,29.9,3
+2115,Female,39,Mumbai,Electronics,2212.96,2024-06-30,3.0,15.0,Cash,0,31.5,1
+4425,Male,69,Mumbai,Home Decor,10000.0,2024-07-01,2.0,,Debit Card,0,26.5,6
+1833,Male,47,Berlin,Fitness,311.92,2024-07-02,3.0,0.0,PayPal,0,59.5,1
+2823,Male,37,Tokyo,Home Decor,4069.55,2024-07-03,4.0,10.0,PayPal,0,55.7,1
+3774,Male,38,Tokyo,Books,4702.82,2024-07-04,3.0,20.0,Crypto,0,19.2,8
+2982,Female,61,London,Fitness,3245.58,2024-07-05,2.0,10.0,Credit Card,0,7.6,9
+1853,Female,49,Tokyo,Home Decor,4773.06,2024-07-06,2.0,30.0,Cash,1,50.5,2
+1050,Male,68,Tokyo,Books,761.4,2024-07-07,2.0,0.0,Crypto,0,59.8,9
+4736,Male,63,Mumbai,Electronics,2389.69,2024-07-08,4.0,15.0,Debit Card,0,18.3,5
+4769,Male,66,Mumbai,Books,3011.02,2024-07-09,3.0,15.0,Debit Card,0,22.1,8
+1574,Female,38,London,Fitness,2910.77,2024-07-10,2.0,20.0,Debit Card,0,56.6,7
+4261,Female,52,New York,Clothing,2010.3,2024-07-11,2.0,5.0,Crypto,0,43.0,7
+2148,Female,49,London,Electronics,1693.73,2024-07-12,3.0,10.0,Cash,0,18.4,4
+3197,Male,47,London,Home Decor,638.49,2024-07-13,5.0,25.0,PayPal,0,35.3,2
+3361,Female,56,Berlin,Fitness,1961.75,2024-07-14,3.0,0.0,Credit Card,0,56.7,5
+3617,Male,66,Berlin,Clothing,817.49,2024-07-15,,25.0,PayPal,0,48.9,3
+4413,Male,29,London,Books,3673.16,2024-07-16,3.0,15.0,Cash,0,44.8,9
+3352,Male,58,London,Clothing,1048.11,2024-07-17,2.0,25.0,PayPal,1,44.5,6
+2715,Male,64,London,Fitness,297.53,2024-07-18,4.0,20.0,Crypto,0,11.5,1
+1681,Female,35,Tokyo,Fitness,2764.07,2024-07-19,3.0,5.0,Debit Card,0,49.7,3
+1837,Female,38,Berlin,Clothing,2978.17,2024-07-20,4.0,15.0,Cash,0,17.3,4
+4854,Male,30,London,Books,4360.21,2024-07-21,,30.0,Cash,0,55.9,9
+2077,Female,38,Mumbai,Clothing,2887.02,2024-07-22,1.0,10.0,PayPal,0,22.5,6
+4050,Other,25,Mumbai,Fitness,1730.68,2024-07-23,1.0,,Crypto,0,51.6,4
+3491,Female,63,Tokyo,Fitness,4016.04,2024-07-24,4.0,15.0,PayPal,0,16.7,1
+3660,Female,57,Tokyo,Home Decor,2703.69,2024-07-25,2.0,0.0,PayPal,0,31.4,8
+4040,Female,63,New York,Home Decor,401.01,2024-07-26,2.0,10.0,Cash,0,7.3,2
+3311,Other,24,New York,Electronics,2831.42,2024-07-27,1.0,,PayPal,0,39.9,8
+4124,Female,40,New York,Fitness,4540.55,2024-07-28,1.0,10.0,Debit Card,0,50.3,6
+2595,Male,61,Tokyo,Home Decor,1984.58,2024-07-29,4.0,30.0,PayPal,0,43.4,8
+4051,Male,49,Tokyo,Clothing,1485.15,2024-07-30,2.0,30.0,Debit Card,0,31.9,6
+4691,Female,28,Tokyo,Books,721.63,2024-07-31,3.0,10.0,Cash,0,3.7,5
+1004,Male,39,Mumbai,Clothing,761.47,2024-08-01,4.0,0.0,Crypto,1,56.1,5
+2126,Female,39,Tokyo,Books,2166.69,2024-08-02,3.0,20.0,Debit Card,1,42.6,8
+2219,Male,60,Mumbai,Home Decor,2980.42,2024-08-03,1.0,10.0,Crypto,0,45.0,7
+1773,Male,42,New York,Electronics,407.67,2024-08-04,4.0,25.0,Crypto,0,47.9,8
+1876,Male,39,New York,Clothing,4698.15,2024-08-05,1.0,10.0,Debit Card,0,45.1,8
+1991,Male,45,New York,Clothing,3776.89,2024-08-06,4.0,15.0,Cash,0,27.0,7
+3931,Female,46,London,Clothing,2935.19,2024-08-07,4.0,25.0,Credit Card,0,44.3,2
+4421,Female,30,London,Books,4143.05,2024-08-08,3.0,10.0,Crypto,0,37.9,9
+1046,Female,35,Berlin,Home Decor,405.53,2024-08-09,3.0,10.0,Crypto,0,51.4,7
+3914,Female,19,Berlin,Clothing,2386.81,2024-08-10,3.0,10.0,Cash,0,48.3,6
+3870,Male,46,Berlin,Clothing,3152.32,2024-08-11,3.0,10.0,Cash,0,3.4,9
+3983,Female,38,London,Electronics,4144.12,2024-08-12,4.0,15.0,PayPal,0,23.4,1
+4891,Female,32,London,Electronics,3918.43,2024-08-13,4.0,25.0,Cash,0,3.0,2
+3703,Female,69,Berlin,Home Decor,1388.96,2024-08-14,3.0,10.0,Crypto,0,7.0,1
+1268,Male,44,Berlin,Home Decor,4704.7,2024-08-15,4.0,15.0,Debit Card,0,36.5,3
+1369,Female,67,Tokyo,Fitness,626.11,2024-08-16,5.0,20.0,Credit Card,0,52.6,5
+1635,Female,48,Berlin,Electronics,4376.29,2024-08-17,,5.0,PayPal,0,8.1,1
+2129,Other,32,Tokyo,Fitness,4854.85,2024-08-18,3.0,5.0,Debit Card,1,27.6,4
+2693,Female,68,Mumbai,Books,889.88,2024-08-19,3.0,30.0,Credit Card,0,54.7,8
+2682,Male,40,London,Fitness,3611.72,2024-08-20,2.0,20.0,Credit Card,0,49.0,6
+1656,Female,41,Berlin,Clothing,206.23,2024-08-21,,15.0,Credit Card,0,31.7,1
+1119,Female,61,London,Fitness,2030.09,2024-08-22,2.0,20.0,Debit Card,0,46.5,1
+1830,Male,30,London,Home Decor,2583.84,2024-08-23,3.0,0.0,PayPal,0,31.8,3
+2810,Female,39,London,Books,2905.32,2024-08-24,2.0,20.0,PayPal,0,10.3,8
+4675,Female,60,Mumbai,Clothing,4680.01,2024-08-25,2.0,15.0,Credit Card,0,8.4,8
+2081,Male,54,New York,Fitness,3362.89,2024-08-26,3.0,15.0,Debit Card,1,12.1,3
+2974,Male,50,Berlin,Books,2408.98,2024-08-27,,10.0,Credit Card,1,21.7,7
+2369,Male,20,New York,Books,4049.33,2024-08-28,1.0,0.0,Cash,1,55.9,3
+1740,Male,36,New York,Clothing,4752.91,2024-08-29,3.0,0.0,PayPal,0,48.2,4
+4545,Male,40,New York,Fitness,115.22,2024-08-30,1.0,,Crypto,0,26.5,9
+1116,Female,46,London,Books,4912.69,2024-08-31,2.0,10.0,Credit Card,0,30.1,4
+2853,Male,47,Tokyo,Books,435.23,2024-09-01,3.0,15.0,Cash,0,16.7,3
+3838,Male,56,London,Electronics,4072.86,2024-09-02,3.0,0.0,PayPal,0,42.6,5
+2150,Female,61,London,Books,1405.27,2024-09-03,2.0,0.0,Debit Card,0,48.4,7
+4464,Female,64,New York,Electronics,665.24,2024-09-04,3.0,20.0,PayPal,0,15.1,5
+2931,Male,42,London,Fitness,2202.08,2024-09-05,1.0,15.0,Debit Card,0,3.5,4
+2012,Male,54,New York,Fitness,3221.56,2024-09-06,3.0,15.0,Debit Card,0,37.8,8
+2664,Male,64,Tokyo,Fitness,1907.85,2024-09-07,,5.0,Credit Card,0,34.2,4
+2081,Female,25,Berlin,Home Decor,277.55,2024-09-08,5.0,20.0,Credit Card,0,24.7,2
+1633,Male,59,New York,Fitness,2999.31,2024-09-09,3.0,0.0,PayPal,0,39.0,6
+1512,Female,33,Tokyo,Books,4512.5,2024-09-10,3.0,0.0,Cash,0,33.5,2
+4822,Other,25,Berlin,Clothing,1919.16,2024-09-11,5.0,15.0,PayPal,0,15.8,3
+3849,Male,18,Mumbai,Electronics,1085.58,2024-09-12,1.0,5.0,Crypto,1,24.5,1
+2119,Female,61,New York,Home Decor,2215.67,2024-09-13,4.0,5.0,Debit Card,0,26.3,5
+4709,Other,22,New York,Fitness,246.57,2024-09-14,5.0,20.0,Debit Card,1,52.9,9
+2141,Male,20,Mumbai,Fitness,4103.34,2024-09-15,1.0,20.0,Credit Card,0,57.7,2
+1559,Female,18,Mumbai,Clothing,4132.57,2024-09-16,2.0,25.0,Cash,0,53.7,7
+4672,Female,21,New York,Clothing,2942.06,2024-09-17,,10.0,Credit Card,0,43.4,5
+1487,Female,57,Mumbai,Home Decor,1768.75,2024-09-18,3.0,0.0,Crypto,0,35.5,2
+4308,Female,52,London,Electronics,3999.92,2024-09-19,1.0,5.0,PayPal,0,41.7,8
+4956,Female,49,Berlin,Fitness,2775.66,2024-09-20,2.0,,PayPal,0,56.4,6
+1896,Female,59,Berlin,Home Decor,4130.53,2024-09-21,3.0,15.0,Cash,0,15.7,4
+4343,Female,51,Berlin,Books,3159.14,2024-09-22,4.0,20.0,Credit Card,0,32.6,4
+2212,Female,60,London,Books,3923.11,2024-09-23,4.0,0.0,Credit Card,0,41.7,2
+1703,Female,42,Mumbai,Home Decor,2994.82,2024-09-24,,15.0,Crypto,0,41.1,3
+2470,Female,27,Tokyo,Fitness,2073.63,2024-09-25,2.0,0.0,PayPal,0,15.9,7
+1580,Male,38,Mumbai,Home Decor,4789.94,2024-09-26,3.0,15.0,Credit Card,0,35.6,3
+3837,Male,63,New York,Fitness,2707.86,2024-09-27,3.0,30.0,Cash,0,48.0,5
+3908,Male,56,Berlin,Clothing,3027.42,2024-09-28,3.0,,PayPal,0,29.0,6
+3294,Male,44,Mumbai,Home Decor,1106.34,2024-09-29,2.0,15.0,Crypto,0,47.8,6
+4147,Male,44,Tokyo,Fitness,3130.13,2024-09-30,,15.0,Cash,0,22.2,4
+1153,Female,19,New York,Home Decor,,2024-10-01,4.0,30.0,Debit Card,0,56.4,6
+2679,Male,58,London,Home Decor,928.27,2024-10-02,3.0,20.0,Crypto,0,32.5,3
+4506,Female,65,London,Fitness,302.64,2024-10-03,4.0,0.0,Cash,0,36.2,7
+1996,Male,30,Tokyo,Fitness,3023.77,2024-10-04,2.0,15.0,Credit Card,0,2.9,7
+4157,Female,26,New York,Electronics,3819.64,2024-10-05,3.0,5.0,Debit Card,0,11.0,4
+3744,Other,69,Berlin,Home Decor,2619.39,2024-10-06,4.0,15.0,Crypto,0,38.3,2
+4356,Male,53,Mumbai,Books,1137.73,2024-10-07,3.0,15.0,Credit Card,0,25.8,7
+2243,Female,39,New York,Home Decor,3334.28,2024-10-08,,15.0,Debit Card,0,31.0,3
+2092,Male,59,London,Home Decor,405.13,2024-10-09,4.0,10.0,PayPal,0,4.7,1
+4118,Female,43,Tokyo,Fitness,2211.96,2024-10-10,3.0,0.0,Credit Card,0,50.2,2
+2008,Male,29,Tokyo,Home Decor,821.02,2024-10-11,4.0,15.0,Cash,0,47.3,9
+3141,Female,34,Mumbai,Home Decor,926.37,2024-10-12,2.0,25.0,Crypto,0,11.9,8
+2773,Male,31,Tokyo,Books,1015.46,2024-10-13,3.0,20.0,Debit Card,0,38.4,6
+1957,Female,31,Tokyo,Fitness,1936.6,2024-10-14,3.0,10.0,Credit Card,0,49.3,6
+4059,Female,51,New York,Home Decor,260.5,2024-10-15,3.0,30.0,PayPal,0,38.8,1
+1452,Male,37,Berlin,Clothing,1991.98,2024-10-16,4.0,30.0,Crypto,0,19.3,2
+2227,Male,28,Mumbai,Electronics,2560.98,2024-10-17,3.0,5.0,Crypto,0,39.7,4
+3959,Male,33,New York,Books,2419.05,2024-10-18,4.0,0.0,Credit Card,0,13.4,3
+3265,Male,68,Berlin,Home Decor,1917.01,2024-10-19,3.0,20.0,PayPal,0,19.8,1
+3521,Female,48,New York,Clothing,4196.54,2024-10-20,3.0,25.0,Debit Card,0,15.2,8
+3479,Male,23,New York,Home Decor,730.91,2024-10-21,4.0,,Credit Card,0,33.9,7
+3388,Male,36,Tokyo,Home Decor,2530.96,2024-10-22,2.0,30.0,Debit Card,0,7.4,4
+1550,Male,54,Berlin,Fitness,314.9,2024-10-23,2.0,20.0,Crypto,0,56.1,9
+2635,Female,21,Mumbai,Fitness,360.42,2024-10-24,3.0,15.0,Debit Card,0,20.7,4
+2312,Male,64,Mumbai,Fitness,2871.46,2024-10-25,2.0,0.0,PayPal,1,13.9,1
+4325,Male,21,Berlin,Clothing,2832.26,2024-10-26,1.0,5.0,Cash,0,30.3,1
+2757,Male,37,Tokyo,Home Decor,4390.78,2024-10-27,4.0,15.0,PayPal,0,17.3,1
+1356,Male,27,London,Electronics,2791.58,2024-10-28,3.0,20.0,Debit Card,0,32.6,1
+3070,Female,41,New York,Books,4799.16,2024-10-29,3.0,15.0,Credit Card,0,21.6,4
+2785,Male,52,Tokyo,Fitness,248.23,2024-10-30,,20.0,Crypto,1,8.8,1
+3569,Male,43,Berlin,Fitness,494.55,2024-10-31,3.0,5.0,Cash,0,16.7,2
+2781,Female,54,New York,Home Decor,225.11,2024-11-01,4.0,15.0,Credit Card,0,26.9,4
+4908,Female,55,Mumbai,Home Decor,930.46,2024-11-02,2.0,0.0,Credit Card,0,2.8,7
+4171,Male,38,London,Clothing,2708.64,2024-11-03,3.0,10.0,PayPal,0,46.5,2
+3849,Female,57,Mumbai,Clothing,3229.63,2024-11-04,4.0,25.0,Debit Card,0,37.7,8
+4251,Female,56,Berlin,Fitness,232.7,2024-11-05,3.0,20.0,PayPal,1,36.5,7
+4294,Male,38,New York,Home Decor,4730.12,2024-11-06,4.0,,Debit Card,1,33.2,9
+4977,Female,27,Berlin,Electronics,4211.62,2024-11-07,3.0,5.0,PayPal,0,35.8,6
+3809,Female,55,New York,Books,1486.58,2024-11-08,1.0,15.0,Credit Card,0,56.1,4
+4730,Male,63,Tokyo,Home Decor,390.55,2024-11-09,3.0,10.0,Crypto,0,1.5,6
+3489,Male,21,London,Home Decor,853.59,2024-11-10,3.0,10.0,Debit Card,0,3.8,4
+2631,Male,62,Tokyo,Clothing,639.09,2024-11-11,4.0,30.0,Cash,0,12.3,7
+3816,Female,37,Tokyo,Books,620.8,2024-11-12,2.0,20.0,Cash,0,10.9,9
+2015,Other,34,Berlin,Fitness,2595.22,2024-11-13,,30.0,Credit Card,0,11.7,3
+2348,Female,24,London,Home Decor,1233.01,2024-11-14,,5.0,PayPal,0,40.6,3
+1515,Male,21,New York,Fitness,1793.91,2024-11-15,2.0,30.0,PayPal,1,28.1,2
+4087,Female,46,New York,Home Decor,4947.58,2024-11-16,3.0,0.0,Credit Card,0,59.5,1
+3839,Female,31,Mumbai,Fitness,3423.15,2024-11-17,4.0,30.0,Cash,0,14.4,1
+1335,Male,20,New York,Books,4745.16,2024-11-18,,10.0,Cash,0,19.3,3
+2782,Male,41,Berlin,Clothing,717.07,2024-11-19,3.0,10.0,PayPal,0,59.1,7
+3305,Female,54,Tokyo,Books,1913.79,2024-11-20,3.0,15.0,Debit Card,0,50.1,9
+1496,Male,33,Tokyo,Electronics,2775.89,2024-11-21,3.0,30.0,Crypto,0,28.7,2
+1895,Female,69,Tokyo,Clothing,388.41,2024-11-22,4.0,0.0,Debit Card,0,33.7,7
+3207,Male,21,London,Books,25.92,2024-11-23,2.0,10.0,Cash,0,50.7,1
+4546,Male,41,New York,Electronics,,2024-11-24,4.0,30.0,Debit Card,0,29.4,2
+1851,Male,51,Berlin,Home Decor,3210.89,2024-11-25,1.0,10.0,Crypto,0,13.2,6
+2687,Male,47,London,Home Decor,2056.89,2024-11-26,1.0,0.0,Debit Card,0,49.9,5
+2931,Female,35,Mumbai,Fitness,2450.77,2024-11-27,3.0,10.0,Debit Card,0,32.7,8
+3737,Male,36,Berlin,Clothing,2080.14,2024-11-28,3.0,10.0,Debit Card,0,10.0,2
+4746,Female,48,Berlin,Home Decor,124.91,2024-11-29,3.0,30.0,Debit Card,0,30.8,1
+3427,Female,36,Berlin,Clothing,1680.18,2024-11-30,3.0,25.0,Credit Card,0,25.4,7
+2568,Female,66,Tokyo,Home Decor,889.53,2024-12-01,3.0,15.0,Cash,0,52.7,6
+1956,Male,63,Berlin,Fitness,496.63,2024-12-02,2.0,,Crypto,1,8.4,8
+3738,Female,36,New York,Books,4783.82,2024-12-03,3.0,15.0,Cash,0,52.6,8
+4498,Female,39,Berlin,Fitness,2998.8,2024-12-04,,0.0,Credit Card,0,31.2,2
+2636,Male,41,Tokyo,Electronics,3644.64,2024-12-05,3.0,5.0,Credit Card,0,24.9,8
+2291,Male,62,Berlin,Home Decor,1580.24,2024-12-06,3.0,10.0,Credit Card,0,10.6,6
+4906,Female,29,Mumbai,Electronics,1968.77,2024-12-07,3.0,0.0,Credit Card,1,42.3,9
+4648,Other,47,Mumbai,Electronics,1188.44,2024-12-08,,30.0,Debit Card,0,55.7,7
+2440,Male,55,Tokyo,Clothing,489.34,2024-12-09,2.0,25.0,Cash,0,23.1,2
+2191,Female,48,New York,Home Decor,899.26,2024-12-10,4.0,5.0,PayPal,0,15.3,8
+4913,Female,53,New York,Electronics,3988.58,2024-12-11,4.0,15.0,Crypto,1,33.7,9
+2066,Female,36,London,Books,3389.34,2024-12-12,4.0,20.0,Credit Card,1,48.0,7
+4627,Other,65,Tokyo,Electronics,2736.91,2024-12-13,1.0,30.0,Cash,0,1.2,4
+1284,Female,62,Berlin,Books,2378.07,2024-12-14,4.0,30.0,Credit Card,0,38.3,9
+3444,Male,53,Tokyo,Clothing,4612.56,2024-12-15,1.0,15.0,Credit Card,0,36.2,4
+1011,Male,47,London,Electronics,368.31,2024-12-16,3.0,25.0,Credit Card,0,19.8,4
+2630,Male,66,Tokyo,Fitness,1406.6,2024-12-17,4.0,15.0,Credit Card,0,27.6,9
+4373,Female,50,Tokyo,Clothing,1752.94,2024-12-18,2.0,15.0,Credit Card,1,15.6,8
+4969,Female,35,London,Books,3913.22,2024-12-19,4.0,0.0,Crypto,0,47.6,4
+4324,Male,69,New York,Clothing,4962.61,2024-12-20,1.0,0.0,Cash,1,38.4,8
+3546,Female,66,Berlin,Electronics,1207.15,2024-12-21,4.0,15.0,Credit Card,0,32.4,8
+1753,Female,45,London,Home Decor,4372.17,2024-12-22,3.0,5.0,Credit Card,0,24.2,7
+3082,Female,64,Mumbai,Home Decor,4153.96,2024-12-23,2.0,0.0,Credit Card,0,18.2,6
+3774,Male,28,New York,Books,1127.16,2024-12-24,2.0,20.0,Credit Card,0,49.5,8
+3896,Female,62,Mumbai,Books,1999.67,2024-12-25,,0.0,Debit Card,0,27.6,7
+1089,Male,50,New York,Home Decor,2051.32,2024-12-26,1.0,15.0,Debit Card,0,30.6,5
+1775,Male,34,Berlin,Books,4891.21,2024-12-27,2.0,15.0,PayPal,1,31.7,4
+3652,Male,23,Berlin,Clothing,908.56,2024-12-28,3.0,,Credit Card,0,27.5,2
+4993,Male,21,Tokyo,Fitness,3996.79,2024-12-29,4.0,15.0,PayPal,0,16.1,8
+4017,Male,37,Mumbai,Fitness,1674.29,2024-12-30,3.0,0.0,Crypto,0,8.1,9
+2625,Female,65,New York,Clothing,3655.7,2024-12-31,2.0,15.0,PayPal,0,6.8,4
+4069,Male,64,Berlin,Fitness,2102.95,2025-01-01,2.0,25.0,Cash,0,45.7,4
+1417,Female,44,London,Electronics,2893.91,2025-01-02,2.0,,Debit Card,0,14.2,5
+1114,Male,32,Berlin,Clothing,4163.9,2025-01-03,2.0,10.0,Debit Card,0,4.3,2
+1616,Female,23,London,Books,4021.81,2025-01-04,3.0,10.0,Credit Card,0,48.1,7
+4974,Other,64,New York,Clothing,4332.78,2025-01-05,4.0,30.0,Credit Card,0,10.1,5
+4267,Male,31,Berlin,Home Decor,302.79,2025-01-06,2.0,0.0,Crypto,1,37.9,6
+1825,Male,28,Berlin,Books,3461.79,2025-01-07,3.0,20.0,Crypto,0,21.0,4
+4572,Male,56,New York,Home Decor,704.24,2025-01-08,3.0,10.0,Cash,0,8.5,8
+2649,Female,26,Berlin,Books,2082.01,2025-01-09,,0.0,Credit Card,0,25.5,8
+2516,Female,43,London,Fitness,2745.2,2025-01-10,,10.0,Credit Card,0,1.9,5
+4146,Male,33,Berlin,Clothing,2016.68,2025-01-11,4.0,5.0,Crypto,0,50.6,6
+1412,Female,22,Mumbai,Electronics,2600.46,2025-01-12,2.0,20.0,Crypto,0,31.3,3
+4447,Male,69,Tokyo,Books,4982.65,2025-01-13,1.0,30.0,Crypto,0,9.2,1
+4491,Male,27,London,Books,680.41,2025-01-14,3.0,5.0,Debit Card,0,15.0,9
+1728,Female,67,Mumbai,Home Decor,3378.9,2025-01-15,2.0,25.0,PayPal,0,27.4,9
+4348,Male,20,New York,Fitness,1983.02,2025-01-16,3.0,0.0,PayPal,0,12.1,3
+4068,Female,30,London,Home Decor,669.38,2025-01-17,4.0,15.0,Credit Card,0,16.8,4
+3808,Male,60,Tokyo,Home Decor,797.89,2025-01-18,4.0,0.0,Debit Card,0,32.5,7
+1675,Other,66,Tokyo,Fitness,4746.62,2025-01-19,4.0,30.0,Crypto,0,50.1,2
+4465,Male,47,New York,Electronics,4398.61,2025-01-20,3.0,25.0,Credit Card,0,24.7,3
+2892,Male,62,New York,Home Decor,,2025-01-21,4.0,20.0,Debit Card,0,43.3,6
+3504,Female,23,London,Home Decor,4957.71,2025-01-22,3.0,25.0,Cash,0,52.7,8
+3967,Male,34,Berlin,Books,1045.54,2025-01-23,1.0,20.0,Debit Card,0,13.8,1
+3239,Other,62,New York,Fitness,1780.42,2025-01-24,4.0,,Credit Card,1,48.6,4
+3786,Female,68,Berlin,Clothing,3347.75,2025-01-25,1.0,20.0,PayPal,0,45.7,1
+4760,Female,36,Mumbai,Electronics,2421.59,2025-01-26,3.0,30.0,Crypto,0,22.1,2
+2122,Female,59,Tokyo,Electronics,2094.86,2025-01-27,3.0,15.0,Cash,0,59.4,8
+2571,Female,52,Berlin,Fitness,1792.27,2025-01-28,4.0,0.0,Debit Card,0,16.5,6
+1977,Female,63,Tokyo,Books,2970.93,2025-01-29,4.0,15.0,Credit Card,0,16.0,9
+2008,Female,43,Berlin,Books,2880.09,2025-01-30,3.0,0.0,Credit Card,0,46.6,2
+3143,Female,68,Mumbai,Fitness,811.48,2025-01-31,4.0,15.0,Crypto,0,26.6,3
+2687,Male,22,New York,Books,2361.34,2025-02-01,2.0,15.0,Credit Card,1,20.5,9
+3710,Male,46,Mumbai,Electronics,2769.59,2025-02-02,3.0,20.0,Credit Card,0,11.5,9
+4261,Female,54,New York,Electronics,2853.58,2025-02-03,4.0,0.0,Crypto,0,46.2,6
+4807,Male,37,New York,Clothing,1054.49,2025-02-04,4.0,0.0,Cash,0,47.4,3
+1036,Female,66,Tokyo,Fitness,3712.65,2025-02-05,,15.0,PayPal,0,34.4,5
+4851,Male,38,Mumbai,Home Decor,130.87,2025-02-06,2.0,,PayPal,0,57.5,2
+4440,Male,27,Berlin,Home Decor,1777.39,2025-02-07,4.0,10.0,Debit Card,0,19.8,7
+4766,Female,22,Mumbai,Clothing,3902.16,2025-02-08,4.0,10.0,Cash,0,14.0,8
+2548,Female,53,Tokyo,Clothing,2821.65,2025-02-09,5.0,20.0,Debit Card,0,41.0,6
+3326,Male,23,New York,Books,1309.51,2025-02-10,2.0,20.0,PayPal,0,45.7,8
+3264,Female,43,Tokyo,Clothing,3476.29,2025-02-11,4.0,5.0,Crypto,0,14.3,2
+3914,Female,21,London,Clothing,2839.12,2025-02-12,3.0,10.0,Credit Card,0,5.5,3
+1872,Male,56,London,Home Decor,3982.24,2025-02-13,2.0,5.0,PayPal,0,48.8,7
+2821,Female,56,Berlin,Books,3676.45,2025-02-14,3.0,,Cash,0,58.6,1
+2296,Male,67,Tokyo,Clothing,3052.49,2025-02-15,3.0,0.0,PayPal,0,39.0,7
+4952,Male,52,Berlin,Clothing,2443.45,2025-02-16,3.0,10.0,Cash,0,17.4,6
+3109,Other,18,Berlin,Books,670.24,2025-02-17,4.0,0.0,Cash,0,59.8,8
+1595,Male,41,London,Fitness,1310.36,2025-02-18,3.0,5.0,Cash,0,53.7,7
+2903,Female,53,Berlin,Books,2098.4,2025-02-19,4.0,25.0,Debit Card,0,31.3,4
+1728,Female,23,London,Home Decor,2998.5,2025-02-20,3.0,5.0,Crypto,0,49.7,3
+2365,Male,58,New York,Fitness,2570.97,2025-02-21,1.0,0.0,PayPal,0,49.1,3
+1396,Female,63,Tokyo,Electronics,1444.48,2025-02-22,2.0,15.0,Crypto,0,56.2,4
+1698,Female,61,Berlin,Books,37.29,2025-02-23,3.0,0.0,Credit Card,0,50.6,9
+4090,Male,48,London,Home Decor,2483.71,2025-02-24,3.0,0.0,PayPal,0,39.0,9
+3224,Female,37,Mumbai,Fitness,1431.7,2025-02-25,2.0,25.0,Crypto,1,36.9,2
+2635,Female,41,Berlin,Books,3674.37,2025-02-26,3.0,25.0,Crypto,0,28.6,5
+1395,Female,42,New York,Clothing,124.61,2025-02-27,3.0,30.0,Credit Card,0,38.0,1
+3492,Female,53,New York,Books,2926.21,2025-02-28,2.0,30.0,Cash,0,47.9,4
+4304,Male,38,Mumbai,Electronics,4707.66,2025-03-01,3.0,20.0,PayPal,0,58.2,2
+4986,Female,47,London,Books,876.17,2025-03-02,2.0,0.0,PayPal,0,28.6,8
+1075,Female,41,Berlin,Fitness,2360.89,2025-03-03,5.0,25.0,Credit Card,0,34.8,4
+1264,Female,61,London,Fitness,461.65,2025-03-04,4.0,25.0,Cash,0,27.2,5
+3502,Female,59,New York,Books,3130.28,2025-03-05,4.0,25.0,PayPal,0,40.4,4
+2819,Female,47,London,Fitness,2754.91,2025-03-06,2.0,15.0,PayPal,0,38.2,5
+1717,Female,39,New York,Clothing,2039.79,2025-03-07,4.0,5.0,PayPal,1,2.1,5
+3782,Female,45,London,Books,2609.28,2025-03-08,4.0,25.0,Cash,0,32.9,5
+4455,Female,24,Mumbai,Clothing,4483.39,2025-03-09,4.0,20.0,Credit Card,0,6.2,3
+4635,Female,52,Tokyo,Clothing,985.49,2025-03-10,2.0,,PayPal,0,2.6,7
+1850,Female,45,Mumbai,Home Decor,117.71,2025-03-11,4.0,0.0,Crypto,0,47.7,3
+4577,Female,31,Mumbai,Books,4309.02,2025-03-12,4.0,5.0,Cash,0,16.3,2
+2390,Male,27,Tokyo,Fitness,2887.7,2025-03-13,3.0,5.0,Debit Card,0,21.1,3
+1143,Male,33,Tokyo,Clothing,4453.84,2025-03-14,4.0,25.0,Credit Card,0,4.8,3
+1884,Male,33,Berlin,Home Decor,2986.74,2025-03-15,3.0,0.0,Crypto,0,11.6,8
+4140,Female,48,Berlin,Books,4051.75,2025-03-16,3.0,0.0,PayPal,0,46.2,4
+4170,Female,59,Mumbai,Books,2151.22,2025-03-17,1.0,,Debit Card,1,30.1,3
+1395,Female,42,Mumbai,Electronics,,2025-03-18,4.0,0.0,Credit Card,0,53.0,5
+4096,Male,30,New York,Electronics,4565.64,2025-03-19,1.0,25.0,Cash,0,24.4,4
+3995,Female,23,New York,Clothing,2862.75,2025-03-20,3.0,10.0,Debit Card,0,16.9,9
+3938,Male,61,Berlin,Electronics,908.02,2025-03-21,2.0,25.0,Debit Card,1,21.5,8
+2492,Male,26,Berlin,Clothing,1347.64,2025-03-22,3.0,15.0,Crypto,0,43.1,7
+4555,Female,62,New York,Fitness,997.23,2025-03-23,2.0,30.0,Credit Card,0,33.7,8
+4636,Female,53,New York,Clothing,1238.05,2025-03-24,4.0,30.0,Crypto,1,54.3,5
+4222,Male,60,London,Electronics,1535.55,2025-03-25,4.0,0.0,Crypto,1,36.5,4
+2167,Male,37,London,Fitness,2777.89,2025-03-26,2.0,0.0,PayPal,0,30.1,7
+3616,Male,35,New York,Electronics,2942.02,2025-03-27,2.0,5.0,Cash,0,47.4,1
+2062,Male,60,London,Clothing,2135.37,2025-03-28,2.0,20.0,Debit Card,0,56.9,6
+3156,Female,38,Tokyo,Home Decor,3079.03,2025-03-29,4.0,30.0,Credit Card,0,22.0,8
+4764,Male,21,Berlin,Books,412.47,2025-03-30,3.0,15.0,Cash,0,15.7,7
+2065,Female,67,Berlin,Electronics,443.5,2025-03-31,3.0,20.0,Cash,0,37.4,2
+2209,Female,50,New York,Clothing,863.29,2025-04-01,2.0,0.0,Credit Card,0,30.4,7
+3982,Male,44,Mumbai,Fitness,2592.8,2025-04-02,4.0,25.0,Cash,0,59.4,6
+3445,Male,24,New York,Electronics,1073.9,2025-04-03,4.0,,PayPal,0,28.3,5
+4294,Male,23,London,Electronics,1420.01,2025-04-04,4.0,5.0,Cash,0,5.4,4
+1633,Male,32,Mumbai,Books,2004.56,2025-04-05,4.0,15.0,PayPal,0,58.7,1
+2156,Male,35,London,Clothing,4060.27,2025-04-06,1.0,0.0,Debit Card,0,50.8,2
+4234,Female,49,Tokyo,Home Decor,74.24,2025-04-07,2.0,15.0,Debit Card,0,11.5,7
+2238,Male,28,London,Fitness,3248.65,2025-04-08,1.0,15.0,Crypto,1,54.4,3
+1732,Other,37,Tokyo,Clothing,3346.04,2025-04-09,2.0,0.0,PayPal,0,21.1,5
+1234,Male,41,Tokyo,Fitness,3994.29,2025-04-10,2.0,10.0,Debit Card,0,23.2,8
+4914,Female,32,London,Electronics,4664.1,2025-04-11,2.0,10.0,Cash,0,54.5,8
+3705,Female,65,London,Books,105.59,2025-04-12,3.0,15.0,Credit Card,0,32.3,6
+1750,Female,24,Tokyo,Books,773.15,2025-04-13,5.0,15.0,Credit Card,0,9.1,5
+3635,Female,38,Mumbai,Home Decor,4431.43,2025-04-14,4.0,0.0,PayPal,0,22.8,2
+4080,Female,59,Tokyo,Books,2295.3,2025-04-15,4.0,25.0,Crypto,0,43.6,9
+4145,Female,43,Berlin,Electronics,,2025-04-16,4.0,20.0,Cash,0,11.3,1
+1953,Female,61,Tokyo,Home Decor,,2025-04-17,2.0,10.0,PayPal,0,35.8,2
+3539,Female,31,Mumbai,Clothing,3396.94,2025-04-18,4.0,0.0,Credit Card,0,42.0,1
+3960,Male,54,Berlin,Books,4659.04,2025-04-19,2.0,25.0,PayPal,0,21.3,4
+4324,Male,38,New York,Home Decor,4984.76,2025-04-20,4.0,,Cash,0,41.9,4
+4301,Female,35,New York,Electronics,3602.19,2025-04-21,3.0,5.0,Debit Card,0,53.2,5
+2542,Female,22,Mumbai,Fitness,1439.67,2025-04-22,,10.0,Cash,0,28.9,5
+2197,Female,20,Tokyo,Fitness,4399.36,2025-04-23,2.0,0.0,Debit Card,0,23.6,8
+2676,Female,40,London,Electronics,,2025-04-24,2.0,15.0,Debit Card,0,15.8,3
+2191,Other,43,Mumbai,Electronics,1159.25,2025-04-25,5.0,0.0,Debit Card,0,36.6,6
+3217,Male,54,Berlin,Fitness,4487.44,2025-04-26,1.0,10.0,PayPal,0,52.9,3
+2416,Male,41,Berlin,Home Decor,1284.68,2025-04-27,4.0,20.0,Credit Card,0,20.2,2
+3993,Male,66,New York,Fitness,1107.15,2025-04-28,4.0,15.0,PayPal,0,24.4,8
+3842,Male,36,Berlin,Electronics,694.94,2025-04-29,4.0,10.0,Credit Card,0,25.0,1
+3681,Female,68,Mumbai,Books,4296.26,2025-04-30,,10.0,Cash,1,34.1,9
+2217,Male,42,Berlin,Clothing,2502.79,2025-05-01,,15.0,Crypto,0,14.5,7
+2540,Female,38,Mumbai,Books,3376.09,2025-05-02,1.0,0.0,Cash,0,49.5,4
+3076,Male,29,London,Books,1199.14,2025-05-03,4.0,0.0,PayPal,0,18.4,3
+4236,Female,58,New York,Electronics,3791.41,2025-05-04,4.0,30.0,PayPal,0,42.6,6
+2445,Female,50,Berlin,Fitness,3801.23,2025-05-05,4.0,0.0,Credit Card,0,31.3,9
+3386,Male,67,Mumbai,Home Decor,1566.43,2025-05-06,2.0,20.0,PayPal,0,35.6,9
+4719,Female,21,Tokyo,Books,2056.36,2025-05-07,4.0,30.0,Debit Card,0,11.6,4
+2519,Male,59,New York,Fitness,1052.4,2025-05-08,,5.0,PayPal,0,44.4,5
+2388,Male,24,London,Home Decor,4882.92,2025-05-09,5.0,10.0,Credit Card,1,12.1,9
+2856,Male,39,Mumbai,Books,3229.78,2025-05-10,3.0,15.0,Credit Card,0,7.7,2
+2365,Male,50,London,Home Decor,4673.05,2025-05-11,1.0,30.0,Debit Card,0,33.3,2
+1499,Male,34,London,Fitness,1520.41,2025-05-12,3.0,30.0,Credit Card,0,42.8,5
+2680,Female,41,Berlin,Clothing,3910.55,2025-05-13,4.0,20.0,Crypto,0,4.0,1
+1510,Female,51,Berlin,Fitness,3830.46,2025-05-14,4.0,0.0,Cash,0,5.1,8
+4398,Female,45,Mumbai,Electronics,3459.82,2025-05-15,3.0,20.0,PayPal,0,48.4,5
+1216,Male,60,Tokyo,Home Decor,4828.37,2025-05-16,1.0,10.0,Crypto,1,48.7,2
+2324,Female,58,Mumbai,Clothing,1970.81,2025-05-17,3.0,15.0,PayPal,0,15.5,9
+2155,Male,56,Tokyo,Home Decor,657.93,2025-05-18,3.0,0.0,Crypto,0,37.3,2
+2827,Male,39,London,Home Decor,3360.19,2025-05-19,5.0,0.0,PayPal,0,27.1,7
+4141,Female,66,New York,Books,3647.9,2025-05-20,4.0,25.0,Debit Card,0,38.3,8
+4323,Male,34,Mumbai,Electronics,2877.43,2025-05-21,3.0,15.0,Credit Card,0,51.9,6
+4486,Female,51,Mumbai,Home Decor,1038.06,2025-05-22,3.0,10.0,Credit Card,0,5.7,7
+2810,Female,23,Tokyo,Fitness,2524.76,2025-05-23,1.0,10.0,Debit Card,0,46.9,1
+3492,Male,63,London,Fitness,1564.39,2025-05-24,,30.0,Crypto,0,30.1,4
+3923,Male,23,London,Books,2140.2,2025-05-25,3.0,20.0,Cash,0,34.3,7
+2205,Male,51,Tokyo,Electronics,3227.87,2025-05-26,3.0,5.0,Crypto,0,39.6,1
+3214,Female,18,London,Electronics,3727.35,2025-05-27,3.0,0.0,Credit Card,0,55.4,1
+1090,Male,27,Berlin,Fitness,1164.96,2025-05-28,4.0,5.0,Cash,0,4.3,6
+1713,Male,38,New York,Clothing,2029.6,2025-05-29,4.0,30.0,PayPal,0,2.7,4
+2881,Male,22,Mumbai,Books,1349.46,2025-05-30,4.0,15.0,Cash,0,11.5,3
+4602,Female,19,New York,Books,997.16,2025-05-31,2.0,15.0,Crypto,0,59.2,5
+1038,Male,39,Mumbai,Fitness,3918.02,2025-06-01,3.0,15.0,Debit Card,0,43.2,9
+4197,Male,65,Berlin,Fitness,4546.72,2025-06-02,2.0,10.0,PayPal,0,37.3,3
+4522,Female,19,London,Clothing,1854.31,2025-06-03,4.0,25.0,Crypto,0,3.8,5
+1172,Female,27,Tokyo,Clothing,3757.64,2025-06-04,1.0,15.0,PayPal,0,52.9,5
+1652,Male,51,Berlin,Electronics,4485.49,2025-06-05,3.0,0.0,Cash,0,49.0,9
+1753,Male,33,New York,Books,4231.39,2025-06-06,4.0,0.0,Credit Card,0,40.2,4
+2243,Male,65,Tokyo,Books,918.15,2025-06-07,4.0,15.0,Crypto,0,21.0,1
+4709,Female,68,London,Fitness,4781.68,2025-06-08,3.0,30.0,Debit Card,1,5.2,5
+2081,Male,56,Berlin,Electronics,1886.5,2025-06-09,3.0,10.0,Cash,0,35.2,1
+2683,Female,39,Tokyo,Books,1699.51,2025-06-10,1.0,30.0,Crypto,1,43.5,6
+3523,Female,29,Berlin,Electronics,316.84,2025-06-11,4.0,25.0,Debit Card,0,6.6,7
+1455,Female,41,Berlin,Electronics,2433.44,2025-06-12,4.0,5.0,Crypto,0,38.4,1
+1828,Male,64,London,Fitness,549.52,2025-06-13,2.0,0.0,Cash,0,17.9,4
+1894,Female,57,Mumbai,Electronics,1246.46,2025-06-14,3.0,0.0,Crypto,0,46.1,9
+2384,Female,55,Tokyo,Clothing,1588.13,2025-06-15,4.0,20.0,PayPal,0,32.8,1
+2958,Female,27,London,Clothing,4045.09,2025-06-16,4.0,0.0,Cash,0,8.6,9
+4072,Male,52,Berlin,Home Decor,4378.07,2025-06-17,2.0,10.0,Crypto,0,32.1,8
+3434,Other,68,London,Fitness,1515.82,2025-06-18,3.0,15.0,Credit Card,0,24.3,5
+2996,Male,66,Mumbai,Home Decor,4294.2,2025-06-19,2.0,20.0,Crypto,0,11.6,6
+3395,Male,49,Tokyo,Clothing,4286.87,2025-06-20,2.0,0.0,PayPal,0,50.6,7
+1189,Male,24,Mumbai,Home Decor,3824.43,2025-06-21,5.0,10.0,Debit Card,0,1.7,4
+1504,Female,38,New York,Fitness,737.74,2025-06-22,4.0,15.0,Debit Card,0,19.4,6
+2214,Male,37,Tokyo,Fitness,3453.16,2025-06-23,4.0,15.0,Debit Card,0,1.7,7
+2531,Male,43,Mumbai,Electronics,4725.4,2025-06-24,1.0,25.0,Credit Card,0,6.7,6
+4440,Male,21,Berlin,Books,3414.29,2025-06-25,4.0,0.0,PayPal,0,18.5,6
+4480,Male,63,Tokyo,Electronics,1661.43,2025-06-26,3.0,25.0,Cash,0,4.2,2
+1823,Female,69,Tokyo,Fitness,2505.39,2025-06-27,3.0,20.0,Debit Card,0,36.2,5
+1928,Female,39,London,Clothing,3230.4,2025-06-28,3.0,15.0,PayPal,0,6.1,3
+1933,Male,32,Berlin,Clothing,2555.3,2025-06-29,1.0,20.0,Crypto,0,42.4,7
+2140,Male,57,New York,Electronics,604.16,2025-06-30,4.0,10.0,Credit Card,1,4.1,4
+1133,Female,38,Mumbai,Fitness,1563.76,2025-07-01,3.0,0.0,PayPal,0,4.5,1
+3105,Male,32,London,Clothing,4012.97,2025-07-02,2.0,20.0,PayPal,0,19.0,6
+4627,Male,39,Mumbai,Fitness,4307.78,2025-07-03,2.0,15.0,Cash,1,53.9,6
+1684,Other,69,New York,Clothing,690.81,2025-07-04,2.0,20.0,PayPal,0,38.8,7
+3719,Female,45,New York,Fitness,4762.17,2025-07-05,1.0,10.0,Cash,0,46.4,8
+3220,Male,31,Tokyo,Home Decor,1647.47,2025-07-06,3.0,30.0,Credit Card,0,9.4,3
+2852,Female,44,New York,Fitness,3313.26,2025-07-07,4.0,15.0,Credit Card,0,50.2,6
+1814,Male,58,Mumbai,Fitness,3760.37,2025-07-08,1.0,0.0,Crypto,0,1.5,2
+2172,Female,57,Berlin,Electronics,4060.67,2025-07-09,1.0,10.0,Cash,0,13.6,9
+1079,Male,45,Berlin,Home Decor,4729.02,2025-07-10,3.0,25.0,Cash,0,37.3,2
+3933,Male,43,Tokyo,Books,1568.03,2025-07-11,4.0,25.0,Debit Card,1,23.1,3
+4284,Male,66,Mumbai,Electronics,4293.24,2025-07-12,3.0,15.0,Debit Card,0,59.1,2
+1202,Female,19,Mumbai,Books,662.78,2025-07-13,3.0,30.0,Crypto,0,2.8,9
+3811,Female,42,New York,Clothing,3526.68,2025-07-14,3.0,5.0,Credit Card,0,59.9,1
+2252,Male,20,Mumbai,Books,3711.18,2025-07-15,2.0,10.0,Debit Card,0,37.8,5
+2699,Male,25,London,Fitness,3390.23,2025-07-16,1.0,30.0,PayPal,0,34.0,1
+2250,Female,61,New York,Books,1265.31,2025-07-17,4.0,30.0,Credit Card,0,4.5,5
+2682,Male,50,London,Electronics,4365.85,2025-07-18,4.0,20.0,PayPal,0,17.1,8
+2555,Male,59,Tokyo,Electronics,848.45,2025-07-19,3.0,30.0,Cash,0,55.6,8
+4512,Other,69,Berlin,Books,272.91,2025-07-20,4.0,0.0,Credit Card,0,21.9,8
+4473,Male,52,Tokyo,Electronics,3588.74,2025-07-21,4.0,30.0,Crypto,0,40.0,2
+3094,Female,23,Berlin,Electronics,2380.0,2025-07-22,2.0,10.0,Cash,0,60.0,8
+2256,Other,56,Tokyo,Books,4246.24,2025-07-23,3.0,0.0,Cash,0,16.5,5
+4376,Male,69,Mumbai,Home Decor,1920.07,2025-07-24,2.0,5.0,PayPal,0,35.0,1
+2549,Male,40,London,Home Decor,845.55,2025-07-25,2.0,10.0,Cash,0,42.1,7
+2166,Male,42,Berlin,Clothing,4183.03,2025-07-26,4.0,5.0,Debit Card,0,10.7,6
+4486,Female,67,New York,Electronics,,2025-07-27,4.0,10.0,Credit Card,0,9.8,5
+4584,Female,60,London,Books,950.03,2025-07-28,,0.0,Debit Card,0,27.9,1
+2396,Female,36,New York,Electronics,3603.32,2025-07-29,4.0,5.0,PayPal,0,23.8,1
+4637,Male,22,London,Fitness,2558.01,2025-07-30,2.0,15.0,PayPal,0,43.1,6
+4957,Female,68,London,Electronics,3023.54,2025-07-31,2.0,10.0,Credit Card,0,5.1,7
+4330,Female,28,Tokyo,Electronics,2307.19,2025-08-01,4.0,10.0,Cash,0,58.4,1
+3703,Female,29,Berlin,Home Decor,4144.4,2025-08-02,3.0,20.0,Crypto,0,1.8,9
+1470,Female,27,Berlin,Books,4148.67,2025-08-03,4.0,30.0,PayPal,0,36.5,4
+4018,Female,25,London,Electronics,3548.4,2025-08-04,4.0,25.0,Credit Card,1,34.2,5
+2035,Female,41,Mumbai,Home Decor,531.48,2025-08-05,4.0,10.0,Crypto,0,8.9,2
+2353,Female,45,Mumbai,Clothing,4195.08,2025-08-06,4.0,20.0,Cash,0,9.9,8
+3783,Male,58,New York,Home Decor,3356.71,2025-08-07,1.0,0.0,PayPal,0,47.8,2
+3831,Male,53,New York,Home Decor,3486.64,2025-08-08,4.0,0.0,Credit Card,0,53.4,3
+1967,Female,54,Tokyo,Home Decor,1818.1,2025-08-09,4.0,10.0,Credit Card,0,17.7,9
+1357,Male,38,London,Electronics,4397.0,2025-08-10,2.0,25.0,Credit Card,0,26.8,2
+4019,Female,25,New York,Electronics,3628.23,2025-08-11,4.0,5.0,PayPal,1,21.9,6
+4479,Other,26,New York,Clothing,567.39,2025-08-12,3.0,0.0,Crypto,1,5.3,4
+1667,Female,64,London,Fitness,2041.85,2025-08-13,,0.0,Credit Card,0,40.7,7
+1372,Male,32,Tokyo,Fitness,4432.47,2025-08-14,1.0,30.0,Cash,0,49.7,6
+2031,Male,65,New York,Fitness,240.75,2025-08-15,3.0,20.0,Credit Card,0,19.0,9
+2145,Male,63,Tokyo,Clothing,4807.28,2025-08-16,2.0,5.0,Crypto,0,59.4,9
+2371,Female,57,Berlin,Fitness,3397.42,2025-08-17,4.0,15.0,PayPal,0,5.5,4
+3723,Female,35,Tokyo,Fitness,,2025-08-18,2.0,15.0,Credit Card,0,40.0,1
+1089,Female,59,Mumbai,Home Decor,1356.44,2025-08-19,2.0,20.0,Credit Card,0,27.4,2
+4719,Male,37,Mumbai,Electronics,1247.71,2025-08-20,3.0,5.0,Cash,0,27.3,8
+3745,Female,23,Tokyo,Electronics,4710.58,2025-08-21,5.0,30.0,Cash,0,28.0,8
+4387,Female,29,Mumbai,Home Decor,1494.87,2025-08-22,2.0,10.0,Credit Card,1,16.3,2
+4249,Male,19,Berlin,Home Decor,3878.65,2025-08-23,2.0,20.0,Credit Card,0,43.2,4
+1539,Female,24,London,Home Decor,1968.64,2025-08-24,4.0,0.0,Cash,0,43.6,1
+3779,Male,33,Mumbai,Electronics,700.57,2025-08-25,3.0,10.0,Crypto,0,17.7,7
+1868,Male,20,Mumbai,Fitness,58.52,2025-08-26,5.0,10.0,Debit Card,1,50.3,4
+1040,Female,62,Tokyo,Home Decor,2723.57,2025-08-27,2.0,15.0,Debit Card,0,19.7,8
+1739,Male,20,Berlin,Clothing,4879.02,2025-08-28,4.0,0.0,Credit Card,0,43.8,9
+4775,Female,44,London,Home Decor,1848.84,2025-08-29,2.0,25.0,Cash,0,8.1,9
+2946,Female,67,Tokyo,Books,1789.18,2025-08-30,2.0,5.0,PayPal,0,11.0,3
+3549,Female,60,Tokyo,Home Decor,1723.74,2025-08-31,4.0,20.0,PayPal,1,19.6,5
+4006,Male,57,Berlin,Electronics,2605.12,2025-09-01,3.0,25.0,Debit Card,0,36.0,6
+4216,Female,55,London,Home Decor,2206.12,2025-09-02,4.0,15.0,Crypto,0,39.1,6
+2224,Female,50,Berlin,Books,4400.17,2025-09-03,3.0,20.0,Debit Card,0,24.4,8
+1928,Female,45,London,Clothing,2530.08,2025-09-04,3.0,20.0,Credit Card,0,5.6,6
+3036,Male,18,Berlin,Fitness,2541.25,2025-09-05,3.0,10.0,Crypto,0,23.0,6
+4795,Male,25,Tokyo,Home Decor,696.17,2025-09-06,,25.0,PayPal,0,41.6,4
+3508,Female,54,Tokyo,Books,4913.78,2025-09-07,2.0,5.0,Cash,0,40.6,7
+3779,Male,49,New York,Books,1253.61,2025-09-08,2.0,15.0,Cash,0,10.5,8
+3799,Female,65,Mumbai,Clothing,371.45,2025-09-09,3.0,20.0,Credit Card,0,1.5,3
+1924,Female,60,Berlin,Electronics,3317.42,2025-09-10,3.0,10.0,Debit Card,0,45.4,7
+3956,Female,54,New York,Home Decor,2978.86,2025-09-11,2.0,10.0,Credit Card,0,7.3,3
+2581,Female,21,Mumbai,Books,2078.65,2025-09-12,5.0,15.0,Cash,0,5.9,8
+4618,Female,47,Berlin,Clothing,2113.85,2025-09-13,2.0,25.0,PayPal,0,1.2,1
+4324,Female,23,London,Fitness,3926.39,2025-09-14,4.0,30.0,Cash,0,26.5,1
+1389,Female,63,Mumbai,Books,982.58,2025-09-15,2.0,15.0,Crypto,1,30.7,6
+2617,Female,36,Tokyo,Clothing,4102.17,2025-09-16,4.0,20.0,Cash,0,38.6,9
+3930,Male,49,New York,Electronics,3245.49,2025-09-17,5.0,30.0,Cash,0,18.5,4
+1255,Male,26,Mumbai,Electronics,2097.75,2025-09-18,2.0,0.0,Crypto,0,42.9,6
+1708,Female,29,Mumbai,Books,2292.85,2025-09-19,,5.0,Debit Card,1,11.0,5
+2838,Male,28,Tokyo,Books,1286.95,2025-09-20,3.0,20.0,Cash,0,50.1,1
+2944,Male,63,Berlin,Home Decor,3761.81,2025-09-21,5.0,25.0,Credit Card,0,34.7,6
+3497,Male,33,London,Clothing,2566.81,2025-09-22,4.0,30.0,Cash,0,35.4,9
+1009,Female,18,Tokyo,Books,1607.67,2025-09-23,3.0,10.0,Credit Card,0,13.4,3
+3871,Female,62,London,Home Decor,2982.27,2025-09-24,2.0,0.0,Crypto,0,5.4,3
+1797,Female,38,Berlin,Home Decor,4978.69,2025-09-25,3.0,10.0,Cash,0,28.4,2
+4313,Female,47,Mumbai,Books,2179.14,2025-09-26,1.0,5.0,Crypto,0,37.3,4
