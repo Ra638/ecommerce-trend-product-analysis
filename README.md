@@ -31,8 +31,8 @@ ecommerce-trend-product-analysis/
 │   └── product_category_trend.png
 │
 ├── dashboards/
-│   ├── sales_dashboard_2024.png
-│   └── customer_dashboard_2024.png
+│   ├── sales_dashboard_.png
+│   └── customer_dashboard_.png
 │
 └── README.md
 
